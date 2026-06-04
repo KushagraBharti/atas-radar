@@ -36,12 +36,15 @@ const views: Array<{ id: View; label: string }> = [
 ];
 
 function formatDate(value: string) {
-  return new Intl.DateTimeFormat("en", {
+  const formatted = new Intl.DateTimeFormat("en", {
     month: "short",
     day: "numeric",
     hour: "numeric",
     minute: "2-digit",
+    timeZone: "UTC",
   }).format(new Date(value));
+
+  return `${formatted} UTC`;
 }
 
 function scoreTone(score: number) {
