@@ -1,0 +1,98 @@
+[
+  {
+    "name": "NAC INTERNATIONAL INC.",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market signal, but likely incumbent/OEM until startup evidence appears.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "NAC INTERNATIONAL INC.",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market signal, but likely incumbent/OEM until startup evidence appears.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "UNIVERSITY OF SOUTH CAROLINA",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "NORTHEASTERN UNIVERSITY",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "THE JOHNS HOPKINS UNIVERSITY",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "MICHIGAN STATE UNIVERSITY",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "UNIVERSITY OF WISCONSIN SYSTEM",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "UNIVERSITY OF WISCONSIN SYSTEM",
+    "source": "USAspending",
+    "source_url": "https://www.usaspending.gov/",
+    "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+    "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "Generic AI factory dashboard",
+    "source": "Radar judgment rule",
+    "source_url": "https://atas.vc/",
+    "reason": "Thin dashboards without workflow control are not enough for the ATAS manufacturing thesis.",
+    "what_would_change": "Show control of production throughput, yield, downtime, or procurement decisions.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  },
+  {
+    "name": "Carbon-credit-only ag finance",
+    "source": "Radar judgment rule",
+    "source_url": "https://atas.vc/",
+    "reason": "Weak operational wedge for agricultural infrastructure; too narrative-heavy without field control.",
+    "what_would_change": "Tie directly to farm operations, water, labor automation, or connected infrastructure ROI.",
+    "last_seen_at": "2026-06-04T09:26:53.175Z"
+  }
+]

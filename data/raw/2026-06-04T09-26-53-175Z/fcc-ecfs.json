@@ -1,0 +1,1912 @@
+{
+  "filing": [
+    {
+      "submissiontype": {
+        "description": "COMMENT",
+        "short": "COMMENT",
+        "id": 7,
+        "abbreviation": "CO"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "Comment to AT&T Petitions 06032026.docx",
+          "src": "https://www.fcc.gov/ecfs/document/1060369363545/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "1060369363545",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1779465658943,
+          "name": "26-125",
+          "bureau_code": "WC",
+          "description": "In the Matter of Petition of AT&T for Preemption and Declaratory Ruling Regarding California's Carrier of Last Resort and Related Requirements",
+          "created_date": "2026-05-22T15:44:49.000Z",
+          "description_display": "In the Matter of Petition of AT&T for Preemption and Declaratory Ruling Regarding California's Carrier of Last Resort and Related Requirements",
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:44:02.312Z",
+      "date_last_modified": "2026-06-03T19:44:02.312Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Cecilia Ball"
+        }
+      ],
+      "date_submission": "2026-06-03T19:44:02.312Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "10603251721997",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "filers": [
+        {
+          "name": "Daniel Allen"
+        }
+      ],
+      "date_submission": "2026-06-03T19:53:45.727Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1779460073457,
+          "name": "26-124",
+          "bureau_code": "MB",
+          "description": "FCC's Media Bureau Seeks Comment on Petition by Disney's ABC Asking the FCC to Declare that The View Qualifies as a Bona Fide News Interview Program and Thus Is Exempt from the Statutory Equal Opportunities Requirements ",
+          "created_date": "2026-05-22T14:08:46.000Z",
+          "description_display": "FCC's Media Bureau Seeks Comment on Petition by Disney's ABC Asking the FCC to Declare that The View Qualifies as a Bona Fide News Interview Program and Thus Is Exempt from the Statutory Equal Opportunities Requirements ",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:53:45.727Z",
+      "text_data": "I do not believe the Television show, The View, should be given the status of a bona fide news program. The heavily leaning left wing entertainment broadcast has no credible information and is merely a platform for leftist propaganda.",
+      "date_last_modified": "2026-06-03T19:53:45.727Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "COMMENT",
+        "short": "COMMENT",
+        "id": 7,
+        "abbreviation": "CO"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "Comment to AT&T Petitions 06032026.docx",
+          "src": "https://www.fcc.gov/ecfs/document/106031538927888/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "106031538927888",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1779375377842,
+          "name": "26-120",
+          "bureau_code": "WC",
+          "description": "Comments Invited On AT&T's Section 214 Applications To Discontinue Domestic Legacy Voice Service As Part Of A Technology Transition",
+          "created_date": "2026-05-21T14:09:23.000Z",
+          "description_display": "Comments Invited On AT&T's Section 214 Applications To Discontinue Domestic Legacy Voice Service As Part Of A Technology Transition",
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:48:43.582Z",
+      "date_last_modified": "2026-06-03T19:48:43.582Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Cecilia Ball"
+        },
+        {
+          "name": "Cecilia Ball"
+        }
+      ],
+      "date_submission": "2026-06-03T19:48:43.581Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "106031243715210",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "filers": [
+        {
+          "name": "Chris"
+        }
+      ],
+      "date_submission": "2026-06-03T19:50:46.211Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": "2026-05-14T04:00:00.000Z",
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 301708,
+          "name": "17-59",
+          "bureau_code": "CG",
+          "description": "In the Matter of Advanced Methods to Target and Eliminate Unlawful Robocalls",
+          "created_date": "2017-03-01T16:50:57.796Z",
+          "description_display": "In the Matter of Advanced Methods to Target and Eliminate Unlawful Robocalls",
+          "sunshine_end_date": "2026-05-21T04:00:00.000Z",
+          "bureau_name": "Consumer and Governmental Affairs Bureau"
+        },
+        {
+          "sunshine_start_date": "2026-04-24T04:00:00.000Z",
+          "date_closed": null,
+          "id_proceeding": 1006400939,
+          "name": "02-278",
+          "bureau_code": "CG",
+          "description": "Rules and Regulations Implementing the Telephone Consumer Protection Act of 1991",
+          "created_date": "2002-09-12T14:36:34.000-04:00",
+          "description_display": "Rules and Regulations Implementing the Telephone Consumer Protection Act of 1991",
+          "sunshine_end_date": "2026-05-01T04:00:00.000Z",
+          "bureau_name": "Consumer and Governmental Affairs Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:50:46.211Z",
+      "text_data": "I strongly oppose the proposed KYC requirements by FCC. They will impose significant financial burdens on businesses, making compliance costly and cumbersome, for little, if any benefit. These costs will be passed on to already cash-strapped consumers. Additionally, while aiming to prevent scams, these measures will not effectively deter criminals, who will adapt their tactics. It’s the law-abiding that will suffer. Identities can be stolen to create KYCed accounts. With KYC, data leaks and breaches happen and compromise customer information. Phone carriers have already suffered past breaches and have illegally sold customer location data. Insiders misuse customer personal information. Data minimization is best practice to protect customers. Therefore, we need fewer KYC rules, not more. Modern life is hard enough for US citizens as it is, and a phone is essential. We don’t need even more roadblocks to obtain phone service. Not everyone has a physical address, and privacy-conscious consumers don’t want a phone number tied to their identity. Usage patterns can identify scammers and spammers. More “show your papers” checks to live a normal life are unwelcome and unnecessary. You won’t solve the problem of scam calls with KYC. You’ll just create more hassles and problems for citizens. Please do not adopt these expanded KYC rules.",
+      "date_last_modified": "2026-06-03T19:50:46.211Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "REPORT",
+        "short": "REPORT",
+        "id": 93,
+        "abbreviation": "RT"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "FCC 395 FORM 2026.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/1060346937780/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "1060346937780",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2100-01-31T05:00:00.000Z",
+          "id_proceeding": 830370520147,
+          "name": "16-233",
+          "bureau_code": "WC",
+          "description": "Common Carrier Annual Employment Report",
+          "created_date": "2016-08-30T14:54:22.525Z",
+          "description_display": null,
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:59:28.107Z",
+      "date_last_modified": "2026-06-03T19:59:28.107Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "MESCALERO APACHE TELECOM, INC."
+        }
+      ],
+      "date_submission": "2026-06-03T19:59:28.107Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "COMPLIANCE FILING",
+        "short": "COMPLIANCE",
+        "id": 128,
+        "abbreviation": "CF"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "FCC_Certificate of Compliance.Vertical Location Accuracy_06.02.2026.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/106031542414313/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "106031542414313",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [
+        {
+          "name": "Blooston Mordkofsky Dickens & Prendergast, LLP"
+        }
+      ],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 301727,
+          "name": "17-78",
+          "bureau_code": "PSHSB",
+          "description": "E911 Location Accuracy Compliance Certifications",
+          "created_date": "2017-03-24T18:13:28.923Z",
+          "description_display": "E911 Location Accuracy Compliance Certifications",
+          "sunshine_end_date": null,
+          "bureau_name": "Public Safety & Homeland Security Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:14:50.552Z",
+      "date_last_modified": "2026-06-03T19:14:50.551Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Uintah Basin Electronic Telecommunications d/b/a Strata Networks"
+        }
+      ],
+      "date_submission": "2026-06-03T19:14:50.551Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Law Firm",
+      "authors": [
+        {
+          "name": "Cary Mitchell"
+        }
+      ],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "COMMENT",
+        "short": "COMMENT",
+        "id": 7,
+        "abbreviation": "CO"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "Comment to AT&T Petitions 06032026.docx",
+          "src": "https://www.fcc.gov/ecfs/document/10603035443158/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "10603035443158",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1779465658609,
+          "name": "26-123",
+          "bureau_code": "WC",
+          "description": "In the Matter of: Petition of AT&T for Forbearance Under 47 U.S.C. § 160(c) from Requirements Imposed on Eligible Telecommunications Carriers by 47 U.S.C. § 214(e)",
+          "created_date": "2026-05-22T13:19:59.000Z",
+          "description_display": "In the Matter of: Petition of AT&T for Forbearance Under 47 U.S.C. § 160(c) from Requirements Imposed on Eligible Telecommunications Carriers by 47 U.S.C. § 214(e)",
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:46:25.009Z",
+      "date_last_modified": "2026-06-03T19:46:25.009Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Cecilia Ball"
+        },
+        {
+          "name": "Cecilia Ball"
+        }
+      ],
+      "date_submission": "2026-06-03T19:46:25.009Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "COMMENT",
+        "short": "COMMENT",
+        "id": 7,
+        "abbreviation": "CO"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "Comment to AT&T Petitions 06032026.docx",
+          "src": "https://www.fcc.gov/ecfs/document/10603687400203/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "10603687400203",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1779375400343,
+          "name": "26-121",
+          "bureau_code": "WC",
+          "description": "Comments Invited On AT&T's Section 214 Applications To Discontinue Domestic Legacy Voice Service As Part Of A Technology Transition",
+          "created_date": "2026-05-21T14:10:07.000Z",
+          "description_display": "Comments Invited On AT&T's Section 214 Applications To Discontinue Domestic Legacy Voice Service As Part Of A Technology Transition",
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:50:50.564Z",
+      "date_last_modified": "2026-06-03T19:50:50.564Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Cecilia Ball"
+        },
+        {
+          "name": "Cecilia Ball"
+        }
+      ],
+      "date_submission": "2026-06-03T19:50:50.564Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "LETTER",
+        "short": "LETTER",
+        "id": 29,
+        "abbreviation": "LT"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "Step 1 Consummation Notice for 2 GHz MSS Market Access (June 3, 2026).pdf",
+          "src": "https://www.fcc.gov/ecfs/document/10603284815649/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "10603284815649",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1759253442760,
+          "name": "25-302",
+          "bureau_code": "GN",
+          "description": "Applications of Spectrum Business Trust 2025-1, Space Exploration Technologies Corp., and EchoStar Corporation for Consent to Assign Spectrum and Earth Station Licenses",
+          "created_date": "2025-09-30T15:22:22.000Z",
+          "description_display": "Applications of Spectrum Business Trust 2025-1, Space Exploration Technologies Corp., and EchoStar Corporation for Consent to Assign Spectrum and Earth Station Licenses",
+          "sunshine_end_date": null,
+          "bureau_name": "General (Multiple Bureaus)"
+        }
+      ],
+      "date_received": "2026-06-03T19:57:50.228Z",
+      "date_last_modified": "2026-06-03T19:57:50.228Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Spectrum Business Trust 2025-1"
+        },
+        {
+          "name": "Space Exploration Technologies Corp."
+        },
+        {
+          "name": "EchoStar Corporation"
+        }
+      ],
+      "date_submission": "2026-06-03T19:57:50.228Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Law Firm",
+      "authors": [
+        {
+          "name": "William M. Wiltshire"
+        }
+      ],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "10603734924743",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "filers": [
+        {
+          "name": "Jeanne Troyano"
+        }
+      ],
+      "date_submission": "2026-06-03T20:32:14.087Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 20190228553792,
+          "name": "19-41",
+          "bureau_code": "MB",
+          "description": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "created_date": "2019-02-25T21:02:38.000Z",
+          "description_display": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T20:32:14.087Z",
+      "text_data": "I rely on television ratings and content descriptors to make informed decisions about what programming enters my home. I appreciate the FCC’s decision to examine whether the current system is genuinely empowering parents in today’s media environment. In my experience, it does not.\n\nI was shocked to learn that programs created for, marketed to, and rated as appropriate for the very youngest members of the family  frequently feature LGBTQ themes, messages, and characters – but the inclusion of this content is not labeled or disclosed. Nothing in the current rating system adequately informs and equips parents to evaluate whether the content presented is appropriate for their child(ren) and reflective of their family’s values. I urge the FCC to encourage reforms that improve clarity, consistency, and transparency in the ratings process, with meaningful parental input. Parents are not seeking censorship or editorial control—only honest, intelligible information on which we can rely.",
+      "date_last_modified": "2026-06-03T20:32:14.087Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "WAIVER",
+        "short": "PET WAIVER",
+        "id": 114,
+        "abbreviation": "PW"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "USAC_FCC_FORM_471_APPLICATION_241026192_CERTIFIED (C2) includes FCDL.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/10603187604162/1",
+          "description": ""
+        },
+        {
+          "filename": "241026192 - FCC Appeal letter.docx",
+          "src": "https://www.fcc.gov/ecfs/document/10603187604162/2",
+          "description": ""
+        }
+      ],
+      "id_submission": "10603187604162",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "Form 471# 241026192",
+      "report_number": "FRN# 2499036159",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": "2026-04-24T04:00:00.000Z",
+          "date_closed": null,
+          "id_proceeding": 1006100772,
+          "name": "02-6",
+          "bureau_code": "CC",
+          "description": "In the Matter of Schools and Libraries Universal Service Support Mechanism",
+          "created_date": "2002-01-18T07:30:35.000-05:00",
+          "description_display": "In the Matter of Schools and Libraries Universal Service Support Mechanism",
+          "sunshine_end_date": "2026-05-01T04:00:00.000Z",
+          "bureau_name": "Common Carrier Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T20:58:26.155Z",
+      "date_last_modified": "2026-06-03T20:58:26.155Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Tim Brick"
+        }
+      ],
+      "date_submission": "2026-06-03T20:58:26.155Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "1060399153924",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "filers": [
+        {
+          "name": "Anissa R Stancato"
+        }
+      ],
+      "date_submission": "2026-06-03T19:19:13.410Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1779460073457,
+          "name": "26-124",
+          "bureau_code": "MB",
+          "description": "FCC's Media Bureau Seeks Comment on Petition by Disney's ABC Asking the FCC to Declare that The View Qualifies as a Bona Fide News Interview Program and Thus Is Exempt from the Statutory Equal Opportunities Requirements ",
+          "created_date": "2026-05-22T14:08:46.000Z",
+          "description_display": "FCC's Media Bureau Seeks Comment on Petition by Disney's ABC Asking the FCC to Declare that The View Qualifies as a Bona Fide News Interview Program and Thus Is Exempt from the Statutory Equal Opportunities Requirements ",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:19:13.410Z",
+      "text_data": "Of course The View, and programs like it, are breaking the FCC rule of equal time and are certainly NOT a legitimate news program! They do not report anything, they give their express opinions on everything, and everyone as long as they are conservative!! Their \"counter\" participant (not plural on purpose!) is weak and ridiculed and its pretty blatant that on every single panel all the hosts share the same basic opinions, with all their left-leaning guests. I have never seen a segment on that show, not ONE, that could be called an unbiased news report!! Not ONE. Seriously, pull one up, I'll wait..... It's been a blatant \"screw you' to the FCC for years, because they had much of government on their side. It's truly a disgusting program that is devisive, rude, evil and typically they are lying anyway, and have been caught NUMEROUS times. It's insulting to Americans to label this program as news. The View is part of what has ruined the US, they should be ashamed to try to pass it off as equal, balanced, or true... so it's NOT news, it's OPINION! They certainly are entitled to those, but not on public airwaves.  It should be moved to cable if kept at all, but certainly does NOT deserve \"news\" status. \nIf the FCC continues to give Disney special exemptions like this that blatantly ignore truth, they are effectively participating in the destruction of America, American culture and values, as it was originally intended. It IS that important to remove programs like this from our public airwaves. Keep this filth where it belongs... in private or paid areas, not public. ",
+      "date_last_modified": "2026-06-03T19:19:13.410Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "LETTER",
+        "short": "LETTER",
+        "id": 29,
+        "abbreviation": "LT"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "Coalition Letter to Chairman Carr re 900 MHz Band (6.3.26).pdf",
+          "src": "https://www.fcc.gov/ecfs/document/1060389786802/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "1060389786802",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": "2025-03-21T04:00:00.000Z",
+          "date_closed": null,
+          "id_proceeding": 1741298443672,
+          "name": "25-110",
+          "bureau_code": "WTB",
+          "description": "Promoting the Development of Positioning, Navigation, and Timing Technologies and Solutions",
+          "created_date": "2025-02-28T13:11:14.000Z",
+          "description_display": "Promoting the Development of Positioning, Navigation, and Timing Technologies and Solutions",
+          "sunshine_end_date": "2025-03-28T04:00:00.000Z",
+          "bureau_name": "Wireless Telecommunications Bureau"
+        },
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1722955524140,
+          "name": "24-240",
+          "bureau_code": "WTB",
+          "description": "WTB and OET Seek Comment on NextNav Petition for Rulemaking",
+          "created_date": "2024-08-06T13:49:25.000Z",
+          "description_display": "WTB and OET Seek Comment on NextNav Petition for Rulemaking",
+          "sunshine_end_date": null,
+          "bureau_name": "Wireless Telecommunications Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T19:28:17.164Z",
+      "date_last_modified": "2026-06-03T19:28:17.164Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Justin Goldberger"
+        }
+      ],
+      "date_submission": "2026-06-03T19:28:17.164Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "REPORT",
+        "short": "REPORT",
+        "id": 93,
+        "abbreviation": "RT"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "2026 FCC Form 395.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/10603007251473/1",
+          "description": "2026 FORM 395 Alyrica Networks, Inc"
+        }
+      ],
+      "id_submission": "10603007251473",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2100-01-31T05:00:00.000Z",
+          "id_proceeding": 830370520147,
+          "name": "16-233",
+          "bureau_code": "WC",
+          "description": "Common Carrier Annual Employment Report",
+          "created_date": "2016-08-30T14:54:22.525Z",
+          "description_display": null,
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T20:32:24.525Z",
+      "date_last_modified": "2026-06-03T20:32:24.525Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Alyrica Networks, Inc"
+        }
+      ],
+      "date_submission": "2026-06-03T20:32:24.525Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "COMPLIANCE FILING",
+        "short": "COMPLIANCE",
+        "id": 128,
+        "abbreviation": "CF"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "June 3 2026 - Certification cover letter - NNTC.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/1060307241873/1",
+          "description": ""
+        },
+        {
+          "filename": "Z-Axis  Location Accuracy Certification - NNTC - signed.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/1060307241873/2",
+          "description": ""
+        }
+      ],
+      "id_submission": "1060307241873",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [
+        {
+          "name": "Blooston Mordkofsky Dickens & Prendergast, LLP"
+        }
+      ],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T21:00:33.124Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 301727,
+          "name": "17-78",
+          "bureau_code": "PSHSB",
+          "description": "E911 Location Accuracy Compliance Certifications",
+          "created_date": "2017-03-24T18:13:28.923Z",
+          "description_display": "E911 Location Accuracy Compliance Certifications",
+          "sunshine_end_date": null,
+          "bureau_name": "Public Safety & Homeland Security Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T20:37:10.868Z",
+      "date_last_modified": "2026-06-03T20:37:10.868Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "NNTC Wireless, LLC"
+        }
+      ],
+      "date_submission": "2026-06-03T20:37:10.868Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Law Firm",
+      "authors": [
+        {
+          "name": "Cary Mitchell"
+        }
+      ],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "REPORT",
+        "short": "REPORT",
+        "id": 93,
+        "abbreviation": "RT"
+      },
+      "is_staff_upload": 1,
+      "delegated_authority_number": "",
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "1060342124200",
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [
+        {
+          "name": "Lukas, LaFuria, Lantor & Sachs, LLP"
+        }
+      ],
+      "date_released": null,
+      "file_number": "",
+      "date_accepted": null,
+      "report_number": "",
+      "date_disseminated": "2026-06-03T19:00:32.707Z",
+      "date_received": "2026-05-29T17:02:00.000Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2100-01-31T05:00:00.000Z",
+          "id_proceeding": 830370520147,
+          "name": "16-233",
+          "bureau_code": "WC",
+          "description": "Common Carrier Annual Employment Report",
+          "created_date": "2016-08-30T14:54:22.525Z",
+          "description_display": null,
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_last_modified": "2026-06-03T17:06:05.697Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Confidential",
+        "id": "30"
+      },
+      "fcc_record": "",
+      "date_filed": "2026-05-29T17:02:00.000Z",
+      "express_comment": 0,
+      "is_action": 0,
+      "date_submission": "2026-06-03T17:06:05.697Z",
+      "filers": [
+        {
+          "name": "Cellular South, Inc./Cellular South Licenses, LLC"
+        }
+      ],
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Law Firm",
+      "authors": [
+        {
+          "name": "Steven M. Chernoff"
+        }
+      ],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "106032849605779",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T19:00:32.707Z",
+      "filers": [
+        {
+          "name": "Maria Nelson"
+        }
+      ],
+      "date_submission": "2026-06-03T18:00:32.232Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 20190228553792,
+          "name": "19-41",
+          "bureau_code": "MB",
+          "description": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "created_date": "2019-02-25T21:02:38.000Z",
+          "description_display": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T18:00:32.232Z",
+      "text_data": "I rely on television ratings and content descriptors to make informed decisions about what programming enters my home. I appreciate the FCC’s decision to examine whether the current system is genuinely empowering parents in today’s media environment. In my experience, it does not.\n\nAlong with many other families, I was shocked to learn that programs created for, marketed to, and rated as appropriate for the very youngest members of the family  frequently feature LGBTQ themes, messages, and characters – but the inclusion of this content is not labeled or disclosed. Nothing in the current rating system adequately informs and equips parents to evaluate whether the content presented is appropriate for their child(ren) and reflective of their family’s values.\n\nWhen I shop for groceries, I review a food packaging label, evaluate the ingredients, and decide whether I am comfortable with my family consuming that product. It is a highly individual decision, and my choices in that matter do not affect or constrain the decisions of other families who may think differently than ours. Program content labeling should work along the same lines.\n\nAs an individual, I should have credible, complete information to make the best decision(s) for my family. Others may make different choices. But the lack of transparency in the entertainment industry sends the message that it either does not care about parental choice or intentionally and willfully works to subvert the authority and autonomy of parents who don’t agree with its political, social, and cultural agenda.\n\nI am concerned that the companies producing and distributing content are the same companies that are determining how the content should be rated, and also the same companies granted “oversight” of the entire system. It’s a closed system that’s meant to protect industry interests over the interests of the families the ratings system was created to serve.\n\nThe many failures of the current rating system become especially apparent across distribution platforms where no single, uniform standard seems to apply.  The burden falls on us, as parents, to learn how to navigate different systems and parental (control) standards, while standing firm against an often opposing multi-billion-dollar industry.\n\nI urge the FCC to encourage reforms that improve clarity, consistency, and transparency in the ratings process, with meaningful parental input. Parents are not seeking censorship or editorial control—only honest, intelligible information on which we can rely.\n\nThank you for considering the perspective of families who depend on this system to function as intended.",
+      "date_last_modified": "2026-06-03T18:00:32.232Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "REPORT",
+        "short": "REPORT",
+        "id": 93,
+        "abbreviation": "RT"
+      },
+      "is_staff_upload": 1,
+      "delegated_authority_number": "",
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "1060355914885",
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [
+        {
+          "name": "Davis Wright Tremaine LLP"
+        }
+      ],
+      "date_released": null,
+      "file_number": "",
+      "date_accepted": null,
+      "report_number": "",
+      "date_disseminated": "2026-06-03T19:00:32.707Z",
+      "date_received": "2026-06-01T18:39:00.000Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2100-01-31T05:00:00.000Z",
+          "id_proceeding": 830370520147,
+          "name": "16-233",
+          "bureau_code": "WC",
+          "description": "Common Carrier Annual Employment Report",
+          "created_date": "2016-08-30T14:54:22.525Z",
+          "description_display": null,
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_last_modified": "2026-06-03T18:42:10.952Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Confidential",
+        "id": "30"
+      },
+      "fcc_record": "",
+      "date_filed": "2026-05-29T18:39:00.000Z",
+      "express_comment": 0,
+      "is_action": 0,
+      "date_submission": "2026-06-03T18:42:10.952Z",
+      "filers": [
+        {
+          "name": "Liberty Mobile Puerto Rico Inc."
+        },
+        {
+          "name": "Liberty Mobile USVI Inc."
+        }
+      ],
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Law Firm",
+      "authors": [
+        {
+          "name": "Christopher W. Savage"
+        }
+      ],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "REQUEST",
+        "short": "REQUEST",
+        "id": 95,
+        "abbreviation": "RQ"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "Washington Co MD - NG911 Valid Request Form - 2026-06-03.docx",
+          "src": "https://www.fcc.gov/ecfs/document/1060395023368/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "1060395023368",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T19:00:32.707Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1742920240657,
+          "name": "25-143",
+          "bureau_code": "PSHSB",
+          "description": "Next Generation 911 (NG911) Valid Requests",
+          "created_date": "2025-03-18T20:11:17.000Z",
+          "description_display": "Next Generation 911 (NG911) Valid Requests",
+          "sunshine_end_date": null,
+          "bureau_name": "Public Safety & Homeland Security Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T18:05:05.290Z",
+      "date_last_modified": "2026-06-03T18:05:05.290Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Washington County Division of Emergency Management & Communications"
+        }
+      ],
+      "date_submission": "2026-06-03T18:05:05.290Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [
+        {
+          "name": "Alan Matheny"
+        }
+      ],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "10603228970142",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T19:00:32.707Z",
+      "filers": [
+        {
+          "name": "Wendy Snow"
+        }
+      ],
+      "date_submission": "2026-06-03T18:18:10.188Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 20190228553792,
+          "name": "19-41",
+          "bureau_code": "MB",
+          "description": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "created_date": "2019-02-25T21:02:38.000Z",
+          "description_display": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T18:18:10.188Z",
+      "text_data": "We need more information and transparency about the TV ratings system. It currently does not give viewers enough prior notice of potentially objectionable content. Amend the ratings with clear and direct coding for all viewers to have informed consent of what they will be partaking in with TV programming.",
+      "date_last_modified": "2026-06-03T18:18:10.188Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "REPORT",
+        "short": "REPORT",
+        "id": 93,
+        "abbreviation": "RT"
+      },
+      "is_staff_upload": 1,
+      "delegated_authority_number": "",
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "1060383296274",
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "date_released": null,
+      "file_number": "",
+      "date_accepted": null,
+      "report_number": "",
+      "date_disseminated": "2026-06-03T19:00:32.707Z",
+      "date_received": "2026-06-01T18:33:00.000Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2100-01-31T05:00:00.000Z",
+          "id_proceeding": 830370520147,
+          "name": "16-233",
+          "bureau_code": "WC",
+          "description": "Common Carrier Annual Employment Report",
+          "created_date": "2016-08-30T14:54:22.525Z",
+          "description_display": null,
+          "sunshine_end_date": null,
+          "bureau_name": "Wireline Competition Bureau"
+        }
+      ],
+      "date_last_modified": "2026-06-03T18:35:04.661Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Confidential",
+        "id": "30"
+      },
+      "fcc_record": "",
+      "date_filed": "2026-05-28T18:33:00.000Z",
+      "express_comment": 0,
+      "is_action": 0,
+      "date_submission": "2026-06-03T18:35:04.661Z",
+      "filers": [
+        {
+          "name": "GCI Communication Corp."
+        }
+      ],
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "",
+      "authors": [
+        {
+          "name": "Chris Nierman"
+        }
+      ],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "COMMENT",
+        "short": "COMMENT",
+        "id": 7,
+        "abbreviation": "CO"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "TVOMB label proposal - Public Comment.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/10603574001096/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "10603574001096",
+      "bureaus": [],
+      "id_bureau": "DA 26-392",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T19:00:32.707Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 20190228553792,
+          "name": "19-41",
+          "bureau_code": "MB",
+          "description": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "created_date": "2019-02-25T21:02:38.000Z",
+          "description_display": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T18:49:16.114Z",
+      "date_last_modified": "2026-06-03T18:49:16.114Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "RL"
+        }
+      ],
+      "date_submission": "2026-06-03T18:49:16.114Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "description": "WAIVER",
+        "short": "PET WAIVER",
+        "id": 114,
+        "abbreviation": "PW"
+      },
+      "attachments": [],
+      "documents": [
+        {
+          "filename": "ERATE WAIVER.pdf",
+          "src": "https://www.fcc.gov/ecfs/document/106032647929152/1",
+          "description": ""
+        }
+      ],
+      "id_submission": "106032647929152",
+      "bureaus": [],
+      "id_bureau": "",
+      "total_page_count": 0,
+      "lawfirms": [],
+      "file_number": "",
+      "report_number": "",
+      "date_disseminated": "2026-06-03T17:00:37.126Z",
+      "proceedings": [
+        {
+          "sunshine_start_date": "2026-04-24T04:00:00.000Z",
+          "date_closed": null,
+          "id_proceeding": 1006100772,
+          "name": "02-6",
+          "bureau_code": "CC",
+          "description": "In the Matter of Schools and Libraries Universal Service Support Mechanism",
+          "created_date": "2002-01-18T07:30:35.000-05:00",
+          "description_display": "In the Matter of Schools and Libraries Universal Service Support Mechanism",
+          "sunshine_end_date": "2026-05-01T04:00:00.000Z",
+          "bureau_name": "Common Carrier Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T15:45:48.359Z",
+      "date_last_modified": "2026-06-03T15:45:48.359Z",
+      "created": true,
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 0,
+      "filers": [
+        {
+          "name": "Andrea Nieto"
+        },
+        {
+          "name": "MONTE ALTO INDEP SCHOOL DIST (BEN: 141643)"
+        }
+      ],
+      "date_submission": "2026-06-03T15:45:48.359Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "presented_to": [],
+      "entity": "Filer",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "10603456229416",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T17:00:37.126Z",
+      "filers": [
+        {
+          "name": "Debra Lopez"
+        }
+      ],
+      "date_submission": "2026-06-03T16:00:06.474Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": "2099-12-31T23:59:59.999Z",
+          "id_proceeding": 20190228553792,
+          "name": "19-41",
+          "bureau_code": "MB",
+          "description": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "created_date": "2019-02-25T21:02:38.000Z",
+          "description_display": " Media Bureau Seeks Comment on TV Ratings System and the Oversight Monitoring Board",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T16:00:06.474Z",
+      "text_data": "I rely on television ratings and content descriptors to make informed decisions about what programming enters my home. I appreciate the FCC’s decision to examine whether the current system is genuinely empowering parents in today’s media environment. In my experience, it does not.\n\n \n\nAlong with many other families, I was shocked to learn that programs created for, marketed to, and rated as appropriate for the very youngest members of the family  frequently feature LGBTQ themes, messages, and characters – but the inclusion of this content is not labeled or disclosed.\n\n \n\nNothing in the current rating system adequately informs and equips parents to evaluate whether the content presented is appropriate for their child(ren) and reflective of their family’s values.\n When I shop for groceries, I review a food packaging label, evaluate the ingredients, and decide whether I am comfortable with my family consuming that product. It is a highly individual decision, and my choices in that matter do not affect or constrain the decisions of other families who may think differently than ours. Program content labeling should work along the same lines.\n\n As an individual, I should have credible, complete information to make the best decision(s) for my family. Others may make different choices. But the lack of transparency in the entertainment industry sends the message that it either does not care about parental choice or intentionally and willfully works to subvert the authority and autonomy of parents who don’t agree with its political, social, and cultural agenda.\n\n I am concerned that the companies producing and distributing content are the same companies that are determining how the content should be rated, and also the same companies granted “oversight” of the entire system. It’s a closed system that’s meant to protect industry interests over the interests of the families the ratings system was created to serve.\n\n The many failures of the current rating system become especially apparent across distribution platforms where no single, uniform standard seems to apply.  The burden falls on us, as parents, to learn how to navigate different systems and parental (control) standards, while standing firm against an often opposing multi-billion-dollar industry.\n\n I urge the FCC to encourage reforms that improve clarity, consistency, and transparency in the ratings process, with meaningful parental input. Parents are not seeking censorship or editorial control—only honest, intelligible information on which we can rely.\n\nThank you for considering the perspective of families who depend on this system to function as intended.",
+      "date_last_modified": "2026-06-03T16:00:06.474Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    },
+    {
+      "submissiontype": {
+        "flag_public": "Y",
+        "short": "COMMENT",
+        "description": "COMMENT",
+        "id": 7,
+        "type": "CO"
+      },
+      "attachments": [],
+      "documents": [],
+      "bureaus": [],
+      "id_submission": "1060366381208",
+      "created": true,
+      "total_page_count": 0,
+      "lawfirms": [],
+      "viewingstatus": {
+        "description": "Unrestricted",
+        "id": 10
+      },
+      "express_comment": 1,
+      "date_disseminated": "2026-06-03T17:00:37.126Z",
+      "filers": [
+        {
+          "name": "Ms. Gudrun Smith"
+        }
+      ],
+      "date_submission": "2026-06-03T16:31:48.113Z",
+      "filingstatus": {
+        "description": "DISSEMINATED",
+        "id": 30
+      },
+      "proceedings": [
+        {
+          "sunshine_start_date": null,
+          "date_closed": null,
+          "id_proceeding": 1772042447897,
+          "name": "26-45",
+          "bureau_code": "MB",
+          "description": "Sports Broadcasting Practices and Marketplace Developments",
+          "created_date": "2026-02-25T16:18:49.000Z",
+          "description_display": "Sports Broadcasting Practices and Marketplace Developments",
+          "sunshine_end_date": null,
+          "bureau_name": "Media Bureau"
+        }
+      ],
+      "date_received": "2026-06-03T16:31:48.113Z",
+      "text_data": "As a sports fan, nothing beats gathering around the TV with my family and friends to watch our favorite teams. Local TV stations bring us the biggest games, make it easy to find the action and share these moments together.\nBut as more games move to exclusive streaming platforms, it’s becoming harder to know where to watch, and more expensive for those of us who just want to follow our teams. Having to juggle multiple subscriptions is expensive and complicated.\nLive sports should remain a shared experience that everyone can access, no matter where we live or what we can afford.\nThat’s why I’m asking you to help keep live sports on broadcast TV.\nPlease stand with local broadcasters and the fans who rely on them. Keep live sports accessible, easy to find and available to all.\n\n\n\n\nSincerely,\nMs. Gudrun Smith",
+      "date_last_modified": "2026-06-03T16:31:48.113Z",
+      "authors": [],
+      "_index": "filings.2026.6",
+      "exparte_or_late_filed": "N"
+    }
+  ],
+  "aggregations": {
+    "express_comment": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": 1,
+          "doc_count": 28711179
+        },
+        {
+          "key": 0,
+          "doc_count": 1721175
+        }
+      ]
+    },
+    "bureaus_description": {
+      "doc_count_error_upper_bound": 2,
+      "sum_other_doc_count": 113199,
+      "buckets": [
+        {
+          "key": "Media Bureau",
+          "doc_count": 1019463
+        },
+        {
+          "key": "Wireline Competition Bureau",
+          "doc_count": 1016848
+        },
+        {
+          "key": "General (Multiple Bureaus)",
+          "doc_count": 410383
+        },
+        {
+          "key": "Common Carrier Bureau",
+          "doc_count": 406049
+        },
+        {
+          "key": "Wireless Telecommunications Bureau",
+          "doc_count": 405501
+        },
+        {
+          "key": "Consumer and Governmental Affairs Bureau",
+          "doc_count": 236468
+        },
+        {
+          "key": "Mass Media Bureau",
+          "doc_count": 108904
+        },
+        {
+          "key": "Office of Engineering and Technology",
+          "doc_count": 71078
+        },
+        {
+          "key": "Enforcement Bureau",
+          "doc_count": 58619
+        },
+        {
+          "key": "International Bureau",
+          "doc_count": 36100
+        }
+      ]
+    },
+    "submissiontype_description": {
+      "doc_count_error_upper_bound": 2217,
+      "sum_other_doc_count": 183353,
+      "buckets": [
+        {
+          "key": "COMMENT",
+          "doc_count": 29276472
+        },
+        {
+          "key": "REPLY TO COMMENTS",
+          "doc_count": 506678
+        },
+        {
+          "key": "NOTICE OF EXPARTE",
+          "doc_count": 155452
+        },
+        {
+          "key": "LETTER",
+          "doc_count": 125172
+        },
+        {
+          "key": "NOTICE OF PRE-HEARING CONFERENCE",
+          "doc_count": 50259
+        },
+        {
+          "key": "REPORT",
+          "doc_count": 45144
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 37772
+        },
+        {
+          "key": "COMPLIANCE FILING",
+          "doc_count": 33301
+        },
+        {
+          "key": "PUBLIC NOTICE",
+          "doc_count": 19940
+        },
+        {
+          "key": "INTENT TO PARITICIPATE IN ORAL ARGUMENT",
+          "doc_count": 15883
+        }
+      ]
+    },
+    "exparte_or_late_filed": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "N",
+          "doc_count": 5103090
+        },
+        {
+          "key": "Y",
+          "doc_count": 206718
+        },
+        {
+          "key": " ",
+          "doc_count": 78503
+        }
+      ]
+    },
+    "is_staff_upload": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": 0,
+          "doc_count": 5205613
+        },
+        {
+          "key": 1,
+          "doc_count": 199644
+        }
+      ]
+    },
+    "proceedings_name": {
+      "doc_count_error_upper_bound": 16253,
+      "sum_other_doc_count": 2707014,
+      "buckets": [
+        {
+          "key": "17-108",
+          "doc_count": 23981833
+        },
+        {
+          "key": "14-28",
+          "doc_count": 2192606
+        },
+        {
+          "key": "18-152",
+          "doc_count": 309125
+        },
+        {
+          "key": "16-106",
+          "doc_count": 289517
+        },
+        {
+          "key": "16-42",
+          "doc_count": 282166
+        },
+        {
+          "key": "96-45",
+          "doc_count": 237716
+        },
+        {
+          "key": "06-121",
+          "doc_count": 176864
+        },
+        {
+          "key": "15-149",
+          "doc_count": 169564
+        },
+        {
+          "key": "14-57",
+          "doc_count": 127416
+        },
+        {
+          "key": "09-191",
+          "doc_count": 116377
+        }
+      ]
+    },
+    "filingstatus_description": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DISSEMINATED",
+          "doc_count": 30449426
+        }
+      ]
+    },
+    "filers_name": {
+      "doc_count_error_upper_bound": 6439,
+      "sum_other_doc_count": 30564727,
+      "buckets": [
+        {
+          "key": "Net Neutrality",
+          "doc_count": 21812
+        },
+        {
+          "key": "Wireline Competition Bureau",
+          "doc_count": 10839
+        },
+        {
+          "key": "Verizon",
+          "doc_count": 9373
+        },
+        {
+          "key": "AT&T",
+          "doc_count": 8459
+        },
+        {
+          "key": "net neutrality",
+          "doc_count": 8146
+        },
+        {
+          "key": "The Internet",
+          "doc_count": 7468
+        },
+        {
+          "key": "Maneesh Pangasa",
+          "doc_count": 6573
+        },
+        {
+          "key": "Support Net Neutrality",
+          "doc_count": 6218
+        },
+        {
+          "key": "An Internet Citizen",
+          "doc_count": 6209
+        },
+        {
+          "key": "Pat M",
+          "doc_count": 5926
+        }
+      ]
+    },
+    "authors_name": {
+      "doc_count_error_upper_bound": 2443,
+      "sum_other_doc_count": 1408309,
+      "buckets": [
+        {
+          "key": "John Kuykendall",
+          "doc_count": 6787
+        },
+        {
+          "key": "Wireline Competition Bureau",
+          "doc_count": 6382
+        },
+        {
+          "key": "Mark Lammert",
+          "doc_count": 5408
+        },
+        {
+          "key": "Various",
+          "doc_count": 4891
+        },
+        {
+          "key": "HISTORY CARDS",
+          "doc_count": 4666
+        },
+        {
+          "key": "John T. Nakahata",
+          "doc_count": 3972
+        },
+        {
+          "key": "Unknown",
+          "doc_count": 2547
+        },
+        {
+          "key": "Gerard J. Duffy",
+          "doc_count": 2366
+        },
+        {
+          "key": "VARIOUS",
+          "doc_count": 2189
+        },
+        {
+          "key": "Thomas Jones",
+          "doc_count": 1972
+        }
+      ]
+    },
+    "text_data": {
+      "doc_count_error_upper_bound": 5324,
+      "sum_other_doc_count": 10013357,
+      "buckets": [
+        {
+          "key": "I strongly support net neutrality backed by Title 2 oversight of ISPs.",
+          "doc_count": 240922
+        },
+        {
+          "key": "Don't kill net neutrality. We deserve a free and open Internet with strong Title II rules. This will ensure that the flow of data is determined by the interests of Internet users",
+          "doc_count": 225263
+        },
+        {
+          "key": "Please save the internet from the corporations. Tom Wheeler was right. Let the new neutrality stand.",
+          "doc_count": 109425
+        },
+        {
+          "key": "make sure net neutrality does not dissapear. It is the only thing saving the internet at this moment. If it is removed many webservices will be at risk.",
+          "doc_count": 109159
+        },
+        {
+          "key": "Please Save Net Neutrality and Title ll rules. As a freelance translator I rely on internet spped to do my work and corporations would interfere with my searches if given the change. Do the right thing and keep the needed regulations. Thank you.",
+          "doc_count": 108960
+        },
+        {
+          "key": "Save net neutrality! I am worried that the protections that are in place will be weakened if we change the way they are enforced. I do not support losing any protections, and I do not trust big companies to look out for my best interests. That's YOUR JOB!",
+          "doc_count": 108861
+        },
+        {
+          "key": "We need net neutralityto continue. A free and open internet is the single greatest technology of our time, and control should not be at the mercy of corporations.",
+          "doc_count": 108771
+        },
+        {
+          "key": "Don't kill net neutrality. We deserve a free and open Internet - one where the flow of data is determined by the interests of Internet users",
+          "doc_count": 96813
+        },
+        {
+          "key": "The Title II order created a gaping gap in privacy protections by taking the best cop, the FTC, off the beat. That is reason enough to support Chairman Pai's proposal to restore Internet freedom. Restore privacy by repealing Net Neutrality.",
+          "doc_count": 92886
+        },
+        {
+          "key": "Title II is a Depression-era regulatory framework designed for a telephone monopoly that no longer exists. It was wrong to apply it to the Internet and the FCC should repeal it and go back to the free-market approach that worked so well.",
+          "doc_count": 90458
+        }
+      ]
+    },
+    "viewingstatus_description": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Unrestricted",
+          "doc_count": 29025607
+        },
+        {
+          "key": "Sunshine",
+          "doc_count": 1396492
+        },
+        {
+          "key": "Confidential",
+          "doc_count": 25349
+        },
+        {
+          "key": "Correspondence",
+          "doc_count": 1977
+        }
+      ]
+    }
+  }
+}

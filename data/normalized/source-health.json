@@ -1,0 +1,178 @@
+[
+  {
+    "source": "Web enrichment: Machina Labs",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://machinalabs.ai/"
+  },
+  {
+    "source": "Web enrichment: Atomic Industries",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://www.atomic.industries/"
+  },
+  {
+    "source": "Web enrichment: First Resonance",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://www.firstresonance.io/"
+  },
+  {
+    "source": "Web enrichment: Instrumental",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://instrumental.com/"
+  },
+  {
+    "source": "Web enrichment: Aigen",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://aigen.io/"
+  },
+  {
+    "source": "Web enrichment: farm-ng",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://farm-ng.com/"
+  },
+  {
+    "source": "Web enrichment: Agtonomy",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://www.agtonomy.com/"
+  },
+  {
+    "source": "Web enrichment: Monarch Tractor",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://www.monarchtractor.com/"
+  },
+  {
+    "source": "Web enrichment: Gridware",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://www.gridware.io/"
+  },
+  {
+    "source": "Web enrichment: Irrigreen",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://irrigreen.com/"
+  },
+  {
+    "source": "Web enrichment: Trellis Climate",
+    "status": "partial",
+    "records": 0,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Homepage fetch failed; retaining manually linked public source. TypeError: fetch failed",
+    "url": "https://www.trellisclimate.com/"
+  },
+  {
+    "source": "Web enrichment: Bedrock Robotics",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Company homepage fetched and cached.",
+    "url": "https://www.bedrockrobotics.com/"
+  },
+  {
+    "source": "USAspending",
+    "status": "ok",
+    "records": 25,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Recent DOE assistance-award search succeeded; awards are treated as market context until recipient type is reviewed.",
+    "url": "https://api.usaspending.gov/docs/endpoints/"
+  },
+  {
+    "source": "FCC ECFS",
+    "status": "ok",
+    "records": 25,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Using DEMO_KEY; provide API_DATA_GOV_KEY for higher FCC rate limits.",
+    "url": "https://publicapi.fcc.gov/ecfs/filings"
+  },
+  {
+    "source": "SBIR/STTR",
+    "status": "partial",
+    "records": 0,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Official SBIR API unavailable; use bulk/download fallback later. Error: Error: 429 ",
+    "url": "https://www.sbir.gov/data-resources"
+  },
+  {
+    "source": "ARPA-E projects",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Fetched public page for market context / candidate review.",
+    "url": "https://arpa-e.energy.gov/technologies/projects"
+  },
+  {
+    "source": "MSHA MDRS",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Fetched public page for market context / candidate review.",
+    "url": "https://catalog.data.gov/dataset/msha-mine-data-retrieval-system-mdrs"
+  },
+  {
+    "source": "Black Flag 100",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Fetched public page for market context / candidate review.",
+    "url": "https://www.blackflag.vc/100-2"
+  },
+  {
+    "source": "YC Hard Tech",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Fetched public page for market context / candidate review.",
+    "url": "https://www.ycombinator.com/companies/industry/hard-tech"
+  },
+  {
+    "source": "Greenhouse Job Board API docs",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Fetched public page for market context / candidate review.",
+    "url": "https://developers.greenhouse.io/job-board.html"
+  },
+  {
+    "source": "Lever Postings API docs",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Fetched public page for market context / candidate review.",
+    "url": "https://github.com/lever/postings-api"
+  },
+  {
+    "source": "GitHub REST API docs",
+    "status": "ok",
+    "records": 1,
+    "last_refresh": "2026-06-04T09:26:53.175Z",
+    "note": "Fetched public page for market context / candidate review.",
+    "url": "https://docs.github.com/en/rest"
+  }
+]

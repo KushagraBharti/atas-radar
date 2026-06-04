@@ -1,0 +1,645 @@
+[
+  {
+    "company_id": "gridware",
+    "name": "Gridware",
+    "website": "https://www.gridware.io/",
+    "description": "Grid monitoring hardware and analytics for utility distribution infrastructure.",
+    "atas_pillar": "Evolution of Energy",
+    "sector": "Grid infrastructure monitoring",
+    "buyer_hypothesis": "utilities trying to detect faults, wildfire risk, and distribution-grid failures faster",
+    "why_now": "aging grid infrastructure, wildfire risk, and electrification demand more real-time grid visibility",
+    "signals": [
+      {
+        "index": 8,
+        "source": "Company web enrichment",
+        "source_url": "https://www.gridware.io/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Gridware",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Grid monitoring hardware and analytics for utility distribution infrastructure. aging grid infrastructure, wildfire risk, and electrification demand more real-time grid visibility",
+        "tags": [
+          "grid",
+          "utility"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-gridware.json",
+        "signal_id": "company-web-enrichment-gridware-8",
+        "company_name_normalized": "gridware"
+      }
+    ],
+    "hype_flags": [
+      "utility sales cycles can be slow"
+    ],
+    "diligence_questions": [
+      "What operational metric would make utilities trying to detect faults, wildfire risk, and distribution-grid failures faster adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "How much value comes from verified customer savings versus modelled/simulated value?",
+      "What integration path is required before the product can touch live operations?",
+      "Who owns liability when the system makes a bad dispatch, routing, or control decision?"
+    ],
+    "source_links": [
+      "https://www.gridware.io/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 26,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 13,
+      "technical_depth": 7,
+      "under_the_radar": 4
+    },
+    "fit_score": 78,
+    "risk_score": 12
+  },
+  {
+    "company_id": "aigen",
+    "name": "Aigen",
+    "website": "https://aigen.io/",
+    "description": "Autonomous solar-powered field robotics for agriculture.",
+    "atas_pillar": "Agricultural Infrastructure",
+    "sector": "Agricultural robotics",
+    "buyer_hypothesis": "row-crop and specialty-crop growers facing labor, herbicide, and field-ops constraints",
+    "why_now": "farm labor shortages, herbicide resistance, and robotics costs make autonomous field work more viable",
+    "signals": [
+      {
+        "index": 4,
+        "source": "Company web enrichment",
+        "source_url": "https://aigen.io/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Aigen",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Autonomous solar-powered field robotics for agriculture. farm labor shortages, herbicide resistance, and robotics costs make autonomous field work more viable",
+        "tags": [
+          "robotics",
+          "agriculture"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-aigen.json",
+        "signal_id": "company-web-enrichment-aigen-4",
+        "company_name_normalized": "aigen"
+      }
+    ],
+    "hype_flags": [
+      "field reliability and service network are the hard part"
+    ],
+    "diligence_questions": [
+      "What operational metric would make row-crop and specialty-crop growers facing labor, herbicide, and field-ops constraints adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the product survive field conditions, seasonality, and farm labor realities?",
+      "What is the payback period per acre, machine, or crew?",
+      "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+    ],
+    "source_links": [
+      "https://aigen.io/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 26,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 10,
+      "technical_depth": 7,
+      "under_the_radar": 4
+    },
+    "fit_score": 75,
+    "risk_score": 12
+  },
+  {
+    "company_id": "machina-labs",
+    "name": "Machina Labs",
+    "website": "https://machinalabs.ai/",
+    "description": "Robotic manufacturing cells for sheet-metal and composite parts.",
+    "atas_pillar": "Future of Manufacturing",
+    "sector": "Robotic manufacturing",
+    "buyer_hypothesis": "aerospace, defense, automotive, and industrial manufacturers with low-volume high-complexity parts",
+    "why_now": "reshoring, defense-industrial capacity pressure, and flexible robotic production make tool-less manufacturing more valuable",
+    "signals": [
+      {
+        "index": 0,
+        "source": "Company web enrichment",
+        "source_url": "https://machinalabs.ai/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Machina Labs",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Robotic manufacturing cells for sheet-metal and composite parts. reshoring, defense-industrial capacity pressure, and flexible robotic production make tool-less manufacturing more valuable",
+        "tags": [
+          "manufacturing",
+          "industrial"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-machina-labs.json",
+        "signal_id": "company-web-enrichment-machina-labs-0",
+        "company_name_normalized": "machina-labs"
+      }
+    ],
+    "hype_flags": [
+      "capex-heavy deployment",
+      "cycle-time proof needed"
+    ],
+    "diligence_questions": [
+      "What operational metric would make aerospace, defense, automotive, and industrial manufacturers with low-volume high-complexity parts adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the software change production throughput, yield, downtime, or only visibility?",
+      "How long is the deployment before the first paid production run improves?",
+      "What does the buyer stop paying for if this works?"
+    ],
+    "source_links": [
+      "https://machinalabs.ai/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 26,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 10,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 73,
+    "risk_score": 24
+  },
+  {
+    "company_id": "irrigreen",
+    "name": "Irrigreen",
+    "website": "https://irrigreen.com/",
+    "description": "Digitally controlled irrigation hardware that reduces water waste.",
+    "atas_pillar": "American Necessities",
+    "sector": "Water infrastructure",
+    "buyer_hypothesis": "property owners, landscapers, municipalities, and developers trying to reduce irrigation water use",
+    "why_now": "water scarcity and connected hardware make irrigation efficiency a real infrastructure problem",
+    "signals": [
+      {
+        "index": 9,
+        "source": "Company web enrichment",
+        "source_url": "https://irrigreen.com/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Irrigreen",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Digitally controlled irrigation hardware that reduces water waste. water scarcity and connected hardware make irrigation efficiency a real infrastructure problem",
+        "tags": [
+          "water"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-irrigreen.json",
+        "signal_id": "company-web-enrichment-irrigreen-9",
+        "company_name_normalized": "irrigreen"
+      }
+    ],
+    "hype_flags": [
+      "consumer/installer channel may dilute venture-scale industrial wedge"
+    ],
+    "diligence_questions": [
+      "What operational metric would make property owners, landscapers, municipalities, and developers trying to reduce irrigation water use adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "What legal or regulatory authority remains outside the software layer?",
+      "Which stakeholder can say yes quickly, and which stakeholder can block adoption?",
+      "Is this a product wedge or a services/procurement wedge?"
+    ],
+    "source_links": [
+      "https://irrigreen.com/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 22,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 13,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 72,
+    "risk_score": 12
+  },
+  {
+    "company_id": "trellis-climate",
+    "name": "Trellis Climate",
+    "website": "https://www.trellisclimate.com/",
+    "description": "Permitting and interconnection workflow software for energy infrastructure.",
+    "atas_pillar": "Evolution of Energy",
+    "sector": "Energy infrastructure workflow",
+    "buyer_hypothesis": "developers and utilities slowed by permitting, interconnection, and project development bottlenecks",
+    "why_now": "data-center load, grid congestion, and generation queues make infrastructure coordination a bottleneck",
+    "signals": [
+      {
+        "index": 10,
+        "source": "Company web enrichment",
+        "source_url": "https://www.trellisclimate.com/",
+        "source_type": "primary",
+        "confidence": 0.62,
+        "company_name_raw": "Trellis Climate",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Permitting and interconnection workflow software for energy infrastructure. data-center load, grid congestion, and generation queues make infrastructure coordination a bottleneck",
+        "tags": [
+          "grid",
+          "energy"
+        ],
+        "signal_id": "company-web-enrichment-trellis-climate-10",
+        "company_name_normalized": "trellis-climate"
+      }
+    ],
+    "hype_flags": [
+      "must own workflow, not just summarize documents"
+    ],
+    "diligence_questions": [
+      "What operational metric would make developers and utilities slowed by permitting, interconnection, and project development bottlenecks adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "How much value comes from verified customer savings versus modelled/simulated value?",
+      "What integration path is required before the product can touch live operations?",
+      "Who owns liability when the system makes a bad dispatch, routing, or control decision?"
+    ],
+    "source_links": [
+      "https://www.trellisclimate.com/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 22,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 13,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 72,
+    "risk_score": 12
+  },
+  {
+    "company_id": "bedrock-robotics",
+    "name": "Bedrock Robotics",
+    "website": "https://www.bedrockrobotics.com/",
+    "description": "Autonomy stack for heavy construction and earthmoving equipment.",
+    "atas_pillar": "American Necessities",
+    "sector": "Construction equipment autonomy",
+    "buyer_hypothesis": "contractors and infrastructure operators facing operator shortages and productivity constraints",
+    "why_now": "infrastructure backlog and labor shortages make off-road autonomy increasingly valuable",
+    "signals": [
+      {
+        "index": 11,
+        "source": "Company web enrichment",
+        "source_url": "https://www.bedrockrobotics.com/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Bedrock Robotics",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Autonomy stack for heavy construction and earthmoving equipment. infrastructure backlog and labor shortages make off-road autonomy increasingly valuable",
+        "tags": [
+          "autonomy"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-bedrock-robotics.json",
+        "signal_id": "company-web-enrichment-bedrock-robotics-11",
+        "company_name_normalized": "bedrock-robotics"
+      }
+    ],
+    "hype_flags": [
+      "site variability and safety case are hard"
+    ],
+    "diligence_questions": [
+      "What operational metric would make contractors and infrastructure operators facing operator shortages and productivity constraints adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "What legal or regulatory authority remains outside the software layer?",
+      "Which stakeholder can say yes quickly, and which stakeholder can block adoption?",
+      "Is this a product wedge or a services/procurement wedge?"
+    ],
+    "source_links": [
+      "https://www.bedrockrobotics.com/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 22,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 13,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 72,
+    "risk_score": 12
+  },
+  {
+    "company_id": "instrumental",
+    "name": "Instrumental",
+    "website": "https://instrumental.com/",
+    "description": "AI inspection and manufacturing data platform for electronics and complex assembly.",
+    "atas_pillar": "Future of Manufacturing",
+    "sector": "Manufacturing inspection",
+    "buyer_hypothesis": "manufacturers with yield loss, line escapes, and slow root-cause loops",
+    "why_now": "computer vision and factory data make quality control more automated and less labor-intensive",
+    "signals": [
+      {
+        "index": 3,
+        "source": "Company web enrichment",
+        "source_url": "https://instrumental.com/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Instrumental",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "AI inspection and manufacturing data platform for electronics and complex assembly. computer vision and factory data make quality control more automated and less labor-intensive",
+        "tags": [
+          "manufacturing"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-instrumental.json",
+        "signal_id": "company-web-enrichment-instrumental-3",
+        "company_name_normalized": "instrumental"
+      }
+    ],
+    "hype_flags": [
+      "needs proof it changes yield, not only dashboards"
+    ],
+    "diligence_questions": [
+      "What operational metric would make manufacturers with yield loss, line escapes, and slow root-cause loops adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the software change production throughput, yield, downtime, or only visibility?",
+      "How long is the deployment before the first paid production run improves?",
+      "What does the buyer stop paying for if this works?"
+    ],
+    "source_links": [
+      "https://instrumental.com/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 26,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 7,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 70,
+    "risk_score": 12
+  },
+  {
+    "company_id": "atomic-industries",
+    "name": "Atomic Industries",
+    "website": "https://www.atomic.industries/",
+    "description": "AI-native manufacturing for molds, tooling, and industrial production workflows.",
+    "atas_pillar": "Future of Manufacturing",
+    "sector": "AI manufacturing tooling",
+    "buyer_hypothesis": "manufacturers blocked by slow tooling, quoting, and production iteration",
+    "why_now": "manufacturing labor shortages and AI-native CAD/CAM workflows are compressing tooling cycles",
+    "signals": [
+      {
+        "index": 1,
+        "source": "Company web enrichment",
+        "source_url": "https://www.atomic.industries/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Atomic Industries",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "AI-native manufacturing for molds, tooling, and industrial production workflows. manufacturing labor shortages and AI-native CAD/CAM workflows are compressing tooling cycles",
+        "tags": [
+          "manufacturing",
+          "industrial"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-atomic-industries.json",
+        "signal_id": "company-web-enrichment-atomic-industries-1",
+        "company_name_normalized": "atomic-industries"
+      }
+    ],
+    "hype_flags": [
+      "workflow depth must beat services-heavy tooling"
+    ],
+    "diligence_questions": [
+      "What operational metric would make manufacturers blocked by slow tooling, quoting, and production iteration adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the software change production throughput, yield, downtime, or only visibility?",
+      "How long is the deployment before the first paid production run improves?",
+      "What does the buyer stop paying for if this works?"
+    ],
+    "source_links": [
+      "https://www.atomic.industries/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 22,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 10,
+      "technical_depth": 3,
+      "under_the_radar": 4
+    },
+    "fit_score": 67,
+    "risk_score": 12
+  },
+  {
+    "company_id": "first-resonance",
+    "name": "First Resonance",
+    "website": "https://www.firstresonance.io/",
+    "description": "Manufacturing operating system for complex hardware production.",
+    "atas_pillar": "Future of Manufacturing",
+    "sector": "Factory operating system",
+    "buyer_hypothesis": "hardware manufacturers that need traceability, process control, and fast production iteration",
+    "why_now": "new aerospace, energy, and defense manufacturers need factory software built for modern hardware velocity",
+    "signals": [
+      {
+        "index": 2,
+        "source": "Company web enrichment",
+        "source_url": "https://www.firstresonance.io/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "First Resonance",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Manufacturing operating system for complex hardware production. new aerospace, energy, and defense manufacturers need factory software built for modern hardware velocity",
+        "tags": [
+          "energy",
+          "manufacturing"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-first-resonance.json",
+        "signal_id": "company-web-enrichment-first-resonance-2",
+        "company_name_normalized": "first-resonance"
+      }
+    ],
+    "hype_flags": [
+      "software visibility must translate into production control"
+    ],
+    "diligence_questions": [
+      "What operational metric would make hardware manufacturers that need traceability, process control, and fast production iteration adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the software change production throughput, yield, downtime, or only visibility?",
+      "How long is the deployment before the first paid production run improves?",
+      "What does the buyer stop paying for if this works?"
+    ],
+    "source_links": [
+      "https://www.firstresonance.io/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 22,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 7,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 66,
+    "risk_score": 12
+  },
+  {
+    "company_id": "farm-ng",
+    "name": "farm-ng",
+    "website": "https://farm-ng.com/",
+    "description": "Modular farm robotics platform for small and specialty-crop growers.",
+    "atas_pillar": "Agricultural Infrastructure",
+    "sector": "Farm robotics platform",
+    "buyer_hypothesis": "specialty-crop operators who need affordable field automation rather than full-size OEM machinery",
+    "why_now": "smaller farms need labor leverage and modular automation that fits existing operations",
+    "signals": [
+      {
+        "index": 5,
+        "source": "Company web enrichment",
+        "source_url": "https://farm-ng.com/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "farm-ng",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Modular farm robotics platform for small and specialty-crop growers. smaller farms need labor leverage and modular automation that fits existing operations",
+        "tags": [
+          "robotics"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-farm-ng.json",
+        "signal_id": "company-web-enrichment-farm-ng-5",
+        "company_name_normalized": "farm-ng"
+      }
+    ],
+    "hype_flags": [
+      "distribution and field support determine adoption"
+    ],
+    "diligence_questions": [
+      "What operational metric would make specialty-crop operators who need affordable field automation rather than full-size OEM machinery adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the product survive field conditions, seasonality, and farm labor realities?",
+      "What is the payback period per acre, machine, or crew?",
+      "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+    ],
+    "source_links": [
+      "https://farm-ng.com/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 22,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 7,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 66,
+    "risk_score": 12
+  },
+  {
+    "company_id": "monarch-tractor",
+    "name": "Monarch Tractor",
+    "website": "https://www.monarchtractor.com/",
+    "description": "Electric autonomous tractor platform for farming operations.",
+    "atas_pillar": "Agricultural Infrastructure",
+    "sector": "Autonomous electric tractors",
+    "buyer_hypothesis": "farms and vineyards seeking labor savings, lower fuel costs, and autonomous equipment capability",
+    "why_now": "electrification, autonomy, and farm labor pressure create a new equipment replacement window",
+    "signals": [
+      {
+        "index": 7,
+        "source": "Company web enrichment",
+        "source_url": "https://www.monarchtractor.com/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Monarch Tractor",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Electric autonomous tractor platform for farming operations. electrification, autonomy, and farm labor pressure create a new equipment replacement window",
+        "tags": [
+          "autonomy"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-monarch-tractor.json",
+        "signal_id": "company-web-enrichment-monarch-tractor-7",
+        "company_name_normalized": "monarch-tractor"
+      }
+    ],
+    "hype_flags": [
+      "obvious consensus name",
+      "hardware gross margin and service complexity"
+    ],
+    "diligence_questions": [
+      "What operational metric would make farms and vineyards seeking labor savings, lower fuel costs, and autonomous equipment capability adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the product survive field conditions, seasonality, and farm labor realities?",
+      "What is the payback period per acre, machine, or crew?",
+      "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+    ],
+    "source_links": [
+      "https://www.monarchtractor.com/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 22,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 10,
+      "technical_depth": 5,
+      "under_the_radar": 1
+    },
+    "fit_score": 66,
+    "risk_score": 24
+  },
+  {
+    "company_id": "agtonomy",
+    "name": "Agtonomy",
+    "website": "https://www.agtonomy.com/",
+    "description": "Autonomous and tele-assisted farm equipment platform.",
+    "atas_pillar": "Agricultural Infrastructure",
+    "sector": "Farm equipment autonomy",
+    "buyer_hypothesis": "growers and equipment fleets that need labor leverage without replacing every machine",
+    "why_now": "farm labor scarcity and fleet autonomy are converging with better perception and remote operations",
+    "signals": [
+      {
+        "index": 6,
+        "source": "Company web enrichment",
+        "source_url": "https://www.agtonomy.com/",
+        "source_type": "primary",
+        "confidence": 0.82,
+        "company_name_raw": "Agtonomy",
+        "date": "2026-06-04T09:26:53.175Z",
+        "agency_or_platform": "Company website",
+        "text": "Autonomous and tele-assisted farm equipment platform. farm labor scarcity and fleet autonomy are converging with better perception and remote operations",
+        "tags": [
+          "autonomy"
+        ],
+        "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-agtonomy.json",
+        "signal_id": "company-web-enrichment-agtonomy-6",
+        "company_name_normalized": "agtonomy"
+      }
+    ],
+    "hype_flags": [
+      "must prove payback across seasons and crops"
+    ],
+    "diligence_questions": [
+      "What operational metric would make growers and equipment fleets that need labor leverage without replacing every machine adopt this within 90 days?",
+      "Which incumbent workflow does the product actually displace rather than decorate?",
+      "Does the product survive field conditions, seasonality, and farm labor realities?",
+      "What is the payback period per acre, machine, or crew?",
+      "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+    ],
+    "source_links": [
+      "https://www.agtonomy.com/"
+    ],
+    "last_seen_at": "2026-06-04T09:26:53.175Z",
+    "score_components": {
+      "thesis_fit": 18,
+      "buyer_pain": 18,
+      "traction_signal": 10,
+      "timing": 7,
+      "technical_depth": 5,
+      "under_the_radar": 4
+    },
+    "fit_score": 62,
+    "risk_score": 12
+  }
+]

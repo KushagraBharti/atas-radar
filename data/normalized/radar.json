@@ -1,0 +1,1733 @@
+{
+  "generated_at": "2026-06-04T09:26:53.175Z",
+  "companies": [
+    {
+      "company_id": "gridware",
+      "name": "Gridware",
+      "website": "https://www.gridware.io/",
+      "description": "Grid monitoring hardware and analytics for utility distribution infrastructure.",
+      "atas_pillar": "Evolution of Energy",
+      "sector": "Grid infrastructure monitoring",
+      "buyer_hypothesis": "utilities trying to detect faults, wildfire risk, and distribution-grid failures faster",
+      "why_now": "aging grid infrastructure, wildfire risk, and electrification demand more real-time grid visibility",
+      "signals": [
+        {
+          "index": 8,
+          "source": "Company web enrichment",
+          "source_url": "https://www.gridware.io/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Gridware",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Grid monitoring hardware and analytics for utility distribution infrastructure. aging grid infrastructure, wildfire risk, and electrification demand more real-time grid visibility",
+          "tags": [
+            "grid",
+            "utility"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-gridware.json",
+          "signal_id": "company-web-enrichment-gridware-8",
+          "company_name_normalized": "gridware"
+        }
+      ],
+      "hype_flags": [
+        "utility sales cycles can be slow"
+      ],
+      "diligence_questions": [
+        "What operational metric would make utilities trying to detect faults, wildfire risk, and distribution-grid failures faster adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "How much value comes from verified customer savings versus modelled/simulated value?",
+        "What integration path is required before the product can touch live operations?",
+        "Who owns liability when the system makes a bad dispatch, routing, or control decision?"
+      ],
+      "source_links": [
+        "https://www.gridware.io/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 26,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 13,
+        "technical_depth": 7,
+        "under_the_radar": 4
+      },
+      "fit_score": 78,
+      "risk_score": 12
+    },
+    {
+      "company_id": "aigen",
+      "name": "Aigen",
+      "website": "https://aigen.io/",
+      "description": "Autonomous solar-powered field robotics for agriculture.",
+      "atas_pillar": "Agricultural Infrastructure",
+      "sector": "Agricultural robotics",
+      "buyer_hypothesis": "row-crop and specialty-crop growers facing labor, herbicide, and field-ops constraints",
+      "why_now": "farm labor shortages, herbicide resistance, and robotics costs make autonomous field work more viable",
+      "signals": [
+        {
+          "index": 4,
+          "source": "Company web enrichment",
+          "source_url": "https://aigen.io/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Aigen",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Autonomous solar-powered field robotics for agriculture. farm labor shortages, herbicide resistance, and robotics costs make autonomous field work more viable",
+          "tags": [
+            "robotics",
+            "agriculture"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-aigen.json",
+          "signal_id": "company-web-enrichment-aigen-4",
+          "company_name_normalized": "aigen"
+        }
+      ],
+      "hype_flags": [
+        "field reliability and service network are the hard part"
+      ],
+      "diligence_questions": [
+        "What operational metric would make row-crop and specialty-crop growers facing labor, herbicide, and field-ops constraints adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the product survive field conditions, seasonality, and farm labor realities?",
+        "What is the payback period per acre, machine, or crew?",
+        "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+      ],
+      "source_links": [
+        "https://aigen.io/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 26,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 10,
+        "technical_depth": 7,
+        "under_the_radar": 4
+      },
+      "fit_score": 75,
+      "risk_score": 12
+    },
+    {
+      "company_id": "machina-labs",
+      "name": "Machina Labs",
+      "website": "https://machinalabs.ai/",
+      "description": "Robotic manufacturing cells for sheet-metal and composite parts.",
+      "atas_pillar": "Future of Manufacturing",
+      "sector": "Robotic manufacturing",
+      "buyer_hypothesis": "aerospace, defense, automotive, and industrial manufacturers with low-volume high-complexity parts",
+      "why_now": "reshoring, defense-industrial capacity pressure, and flexible robotic production make tool-less manufacturing more valuable",
+      "signals": [
+        {
+          "index": 0,
+          "source": "Company web enrichment",
+          "source_url": "https://machinalabs.ai/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Machina Labs",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Robotic manufacturing cells for sheet-metal and composite parts. reshoring, defense-industrial capacity pressure, and flexible robotic production make tool-less manufacturing more valuable",
+          "tags": [
+            "manufacturing",
+            "industrial"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-machina-labs.json",
+          "signal_id": "company-web-enrichment-machina-labs-0",
+          "company_name_normalized": "machina-labs"
+        }
+      ],
+      "hype_flags": [
+        "capex-heavy deployment",
+        "cycle-time proof needed"
+      ],
+      "diligence_questions": [
+        "What operational metric would make aerospace, defense, automotive, and industrial manufacturers with low-volume high-complexity parts adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the software change production throughput, yield, downtime, or only visibility?",
+        "How long is the deployment before the first paid production run improves?",
+        "What does the buyer stop paying for if this works?"
+      ],
+      "source_links": [
+        "https://machinalabs.ai/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 26,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 10,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 73,
+      "risk_score": 24
+    },
+    {
+      "company_id": "irrigreen",
+      "name": "Irrigreen",
+      "website": "https://irrigreen.com/",
+      "description": "Digitally controlled irrigation hardware that reduces water waste.",
+      "atas_pillar": "American Necessities",
+      "sector": "Water infrastructure",
+      "buyer_hypothesis": "property owners, landscapers, municipalities, and developers trying to reduce irrigation water use",
+      "why_now": "water scarcity and connected hardware make irrigation efficiency a real infrastructure problem",
+      "signals": [
+        {
+          "index": 9,
+          "source": "Company web enrichment",
+          "source_url": "https://irrigreen.com/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Irrigreen",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Digitally controlled irrigation hardware that reduces water waste. water scarcity and connected hardware make irrigation efficiency a real infrastructure problem",
+          "tags": [
+            "water"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-irrigreen.json",
+          "signal_id": "company-web-enrichment-irrigreen-9",
+          "company_name_normalized": "irrigreen"
+        }
+      ],
+      "hype_flags": [
+        "consumer/installer channel may dilute venture-scale industrial wedge"
+      ],
+      "diligence_questions": [
+        "What operational metric would make property owners, landscapers, municipalities, and developers trying to reduce irrigation water use adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "What legal or regulatory authority remains outside the software layer?",
+        "Which stakeholder can say yes quickly, and which stakeholder can block adoption?",
+        "Is this a product wedge or a services/procurement wedge?"
+      ],
+      "source_links": [
+        "https://irrigreen.com/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 22,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 13,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 72,
+      "risk_score": 12
+    },
+    {
+      "company_id": "trellis-climate",
+      "name": "Trellis Climate",
+      "website": "https://www.trellisclimate.com/",
+      "description": "Permitting and interconnection workflow software for energy infrastructure.",
+      "atas_pillar": "Evolution of Energy",
+      "sector": "Energy infrastructure workflow",
+      "buyer_hypothesis": "developers and utilities slowed by permitting, interconnection, and project development bottlenecks",
+      "why_now": "data-center load, grid congestion, and generation queues make infrastructure coordination a bottleneck",
+      "signals": [
+        {
+          "index": 10,
+          "source": "Company web enrichment",
+          "source_url": "https://www.trellisclimate.com/",
+          "source_type": "primary",
+          "confidence": 0.62,
+          "company_name_raw": "Trellis Climate",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Permitting and interconnection workflow software for energy infrastructure. data-center load, grid congestion, and generation queues make infrastructure coordination a bottleneck",
+          "tags": [
+            "grid",
+            "energy"
+          ],
+          "signal_id": "company-web-enrichment-trellis-climate-10",
+          "company_name_normalized": "trellis-climate"
+        }
+      ],
+      "hype_flags": [
+        "must own workflow, not just summarize documents"
+      ],
+      "diligence_questions": [
+        "What operational metric would make developers and utilities slowed by permitting, interconnection, and project development bottlenecks adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "How much value comes from verified customer savings versus modelled/simulated value?",
+        "What integration path is required before the product can touch live operations?",
+        "Who owns liability when the system makes a bad dispatch, routing, or control decision?"
+      ],
+      "source_links": [
+        "https://www.trellisclimate.com/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 22,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 13,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 72,
+      "risk_score": 12
+    },
+    {
+      "company_id": "bedrock-robotics",
+      "name": "Bedrock Robotics",
+      "website": "https://www.bedrockrobotics.com/",
+      "description": "Autonomy stack for heavy construction and earthmoving equipment.",
+      "atas_pillar": "American Necessities",
+      "sector": "Construction equipment autonomy",
+      "buyer_hypothesis": "contractors and infrastructure operators facing operator shortages and productivity constraints",
+      "why_now": "infrastructure backlog and labor shortages make off-road autonomy increasingly valuable",
+      "signals": [
+        {
+          "index": 11,
+          "source": "Company web enrichment",
+          "source_url": "https://www.bedrockrobotics.com/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Bedrock Robotics",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Autonomy stack for heavy construction and earthmoving equipment. infrastructure backlog and labor shortages make off-road autonomy increasingly valuable",
+          "tags": [
+            "autonomy"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-bedrock-robotics.json",
+          "signal_id": "company-web-enrichment-bedrock-robotics-11",
+          "company_name_normalized": "bedrock-robotics"
+        }
+      ],
+      "hype_flags": [
+        "site variability and safety case are hard"
+      ],
+      "diligence_questions": [
+        "What operational metric would make contractors and infrastructure operators facing operator shortages and productivity constraints adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "What legal or regulatory authority remains outside the software layer?",
+        "Which stakeholder can say yes quickly, and which stakeholder can block adoption?",
+        "Is this a product wedge or a services/procurement wedge?"
+      ],
+      "source_links": [
+        "https://www.bedrockrobotics.com/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 22,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 13,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 72,
+      "risk_score": 12
+    },
+    {
+      "company_id": "instrumental",
+      "name": "Instrumental",
+      "website": "https://instrumental.com/",
+      "description": "AI inspection and manufacturing data platform for electronics and complex assembly.",
+      "atas_pillar": "Future of Manufacturing",
+      "sector": "Manufacturing inspection",
+      "buyer_hypothesis": "manufacturers with yield loss, line escapes, and slow root-cause loops",
+      "why_now": "computer vision and factory data make quality control more automated and less labor-intensive",
+      "signals": [
+        {
+          "index": 3,
+          "source": "Company web enrichment",
+          "source_url": "https://instrumental.com/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Instrumental",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "AI inspection and manufacturing data platform for electronics and complex assembly. computer vision and factory data make quality control more automated and less labor-intensive",
+          "tags": [
+            "manufacturing"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-instrumental.json",
+          "signal_id": "company-web-enrichment-instrumental-3",
+          "company_name_normalized": "instrumental"
+        }
+      ],
+      "hype_flags": [
+        "needs proof it changes yield, not only dashboards"
+      ],
+      "diligence_questions": [
+        "What operational metric would make manufacturers with yield loss, line escapes, and slow root-cause loops adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the software change production throughput, yield, downtime, or only visibility?",
+        "How long is the deployment before the first paid production run improves?",
+        "What does the buyer stop paying for if this works?"
+      ],
+      "source_links": [
+        "https://instrumental.com/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 26,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 7,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 70,
+      "risk_score": 12
+    },
+    {
+      "company_id": "atomic-industries",
+      "name": "Atomic Industries",
+      "website": "https://www.atomic.industries/",
+      "description": "AI-native manufacturing for molds, tooling, and industrial production workflows.",
+      "atas_pillar": "Future of Manufacturing",
+      "sector": "AI manufacturing tooling",
+      "buyer_hypothesis": "manufacturers blocked by slow tooling, quoting, and production iteration",
+      "why_now": "manufacturing labor shortages and AI-native CAD/CAM workflows are compressing tooling cycles",
+      "signals": [
+        {
+          "index": 1,
+          "source": "Company web enrichment",
+          "source_url": "https://www.atomic.industries/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Atomic Industries",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "AI-native manufacturing for molds, tooling, and industrial production workflows. manufacturing labor shortages and AI-native CAD/CAM workflows are compressing tooling cycles",
+          "tags": [
+            "manufacturing",
+            "industrial"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-atomic-industries.json",
+          "signal_id": "company-web-enrichment-atomic-industries-1",
+          "company_name_normalized": "atomic-industries"
+        }
+      ],
+      "hype_flags": [
+        "workflow depth must beat services-heavy tooling"
+      ],
+      "diligence_questions": [
+        "What operational metric would make manufacturers blocked by slow tooling, quoting, and production iteration adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the software change production throughput, yield, downtime, or only visibility?",
+        "How long is the deployment before the first paid production run improves?",
+        "What does the buyer stop paying for if this works?"
+      ],
+      "source_links": [
+        "https://www.atomic.industries/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 22,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 10,
+        "technical_depth": 3,
+        "under_the_radar": 4
+      },
+      "fit_score": 67,
+      "risk_score": 12
+    },
+    {
+      "company_id": "first-resonance",
+      "name": "First Resonance",
+      "website": "https://www.firstresonance.io/",
+      "description": "Manufacturing operating system for complex hardware production.",
+      "atas_pillar": "Future of Manufacturing",
+      "sector": "Factory operating system",
+      "buyer_hypothesis": "hardware manufacturers that need traceability, process control, and fast production iteration",
+      "why_now": "new aerospace, energy, and defense manufacturers need factory software built for modern hardware velocity",
+      "signals": [
+        {
+          "index": 2,
+          "source": "Company web enrichment",
+          "source_url": "https://www.firstresonance.io/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "First Resonance",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Manufacturing operating system for complex hardware production. new aerospace, energy, and defense manufacturers need factory software built for modern hardware velocity",
+          "tags": [
+            "energy",
+            "manufacturing"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-first-resonance.json",
+          "signal_id": "company-web-enrichment-first-resonance-2",
+          "company_name_normalized": "first-resonance"
+        }
+      ],
+      "hype_flags": [
+        "software visibility must translate into production control"
+      ],
+      "diligence_questions": [
+        "What operational metric would make hardware manufacturers that need traceability, process control, and fast production iteration adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the software change production throughput, yield, downtime, or only visibility?",
+        "How long is the deployment before the first paid production run improves?",
+        "What does the buyer stop paying for if this works?"
+      ],
+      "source_links": [
+        "https://www.firstresonance.io/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 22,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 7,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 66,
+      "risk_score": 12
+    },
+    {
+      "company_id": "farm-ng",
+      "name": "farm-ng",
+      "website": "https://farm-ng.com/",
+      "description": "Modular farm robotics platform for small and specialty-crop growers.",
+      "atas_pillar": "Agricultural Infrastructure",
+      "sector": "Farm robotics platform",
+      "buyer_hypothesis": "specialty-crop operators who need affordable field automation rather than full-size OEM machinery",
+      "why_now": "smaller farms need labor leverage and modular automation that fits existing operations",
+      "signals": [
+        {
+          "index": 5,
+          "source": "Company web enrichment",
+          "source_url": "https://farm-ng.com/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "farm-ng",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Modular farm robotics platform for small and specialty-crop growers. smaller farms need labor leverage and modular automation that fits existing operations",
+          "tags": [
+            "robotics"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-farm-ng.json",
+          "signal_id": "company-web-enrichment-farm-ng-5",
+          "company_name_normalized": "farm-ng"
+        }
+      ],
+      "hype_flags": [
+        "distribution and field support determine adoption"
+      ],
+      "diligence_questions": [
+        "What operational metric would make specialty-crop operators who need affordable field automation rather than full-size OEM machinery adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the product survive field conditions, seasonality, and farm labor realities?",
+        "What is the payback period per acre, machine, or crew?",
+        "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+      ],
+      "source_links": [
+        "https://farm-ng.com/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 22,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 7,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 66,
+      "risk_score": 12
+    },
+    {
+      "company_id": "monarch-tractor",
+      "name": "Monarch Tractor",
+      "website": "https://www.monarchtractor.com/",
+      "description": "Electric autonomous tractor platform for farming operations.",
+      "atas_pillar": "Agricultural Infrastructure",
+      "sector": "Autonomous electric tractors",
+      "buyer_hypothesis": "farms and vineyards seeking labor savings, lower fuel costs, and autonomous equipment capability",
+      "why_now": "electrification, autonomy, and farm labor pressure create a new equipment replacement window",
+      "signals": [
+        {
+          "index": 7,
+          "source": "Company web enrichment",
+          "source_url": "https://www.monarchtractor.com/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Monarch Tractor",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Electric autonomous tractor platform for farming operations. electrification, autonomy, and farm labor pressure create a new equipment replacement window",
+          "tags": [
+            "autonomy"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-monarch-tractor.json",
+          "signal_id": "company-web-enrichment-monarch-tractor-7",
+          "company_name_normalized": "monarch-tractor"
+        }
+      ],
+      "hype_flags": [
+        "obvious consensus name",
+        "hardware gross margin and service complexity"
+      ],
+      "diligence_questions": [
+        "What operational metric would make farms and vineyards seeking labor savings, lower fuel costs, and autonomous equipment capability adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the product survive field conditions, seasonality, and farm labor realities?",
+        "What is the payback period per acre, machine, or crew?",
+        "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+      ],
+      "source_links": [
+        "https://www.monarchtractor.com/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 22,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 10,
+        "technical_depth": 5,
+        "under_the_radar": 1
+      },
+      "fit_score": 66,
+      "risk_score": 24
+    },
+    {
+      "company_id": "agtonomy",
+      "name": "Agtonomy",
+      "website": "https://www.agtonomy.com/",
+      "description": "Autonomous and tele-assisted farm equipment platform.",
+      "atas_pillar": "Agricultural Infrastructure",
+      "sector": "Farm equipment autonomy",
+      "buyer_hypothesis": "growers and equipment fleets that need labor leverage without replacing every machine",
+      "why_now": "farm labor scarcity and fleet autonomy are converging with better perception and remote operations",
+      "signals": [
+        {
+          "index": 6,
+          "source": "Company web enrichment",
+          "source_url": "https://www.agtonomy.com/",
+          "source_type": "primary",
+          "confidence": 0.82,
+          "company_name_raw": "Agtonomy",
+          "date": "2026-06-04T09:26:53.175Z",
+          "agency_or_platform": "Company website",
+          "text": "Autonomous and tele-assisted farm equipment platform. farm labor scarcity and fleet autonomy are converging with better perception and remote operations",
+          "tags": [
+            "autonomy"
+          ],
+          "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-agtonomy.json",
+          "signal_id": "company-web-enrichment-agtonomy-6",
+          "company_name_normalized": "agtonomy"
+        }
+      ],
+      "hype_flags": [
+        "must prove payback across seasons and crops"
+      ],
+      "diligence_questions": [
+        "What operational metric would make growers and equipment fleets that need labor leverage without replacing every machine adopt this within 90 days?",
+        "Which incumbent workflow does the product actually displace rather than decorate?",
+        "Does the product survive field conditions, seasonality, and farm labor realities?",
+        "What is the payback period per acre, machine, or crew?",
+        "Who distributes this into farms: direct sales, dealers, co-ops, OEMs, or contractors?"
+      ],
+      "source_links": [
+        "https://www.agtonomy.com/"
+      ],
+      "last_seen_at": "2026-06-04T09:26:53.175Z",
+      "score_components": {
+        "thesis_fit": 18,
+        "buyer_pain": 18,
+        "traction_signal": 10,
+        "timing": 7,
+        "technical_depth": 5,
+        "under_the_radar": 4
+      },
+      "fit_score": 62,
+      "risk_score": 12
+    }
+  ],
+  "signals": [
+    {
+      "index": 0,
+      "source": "Company web enrichment",
+      "source_url": "https://machinalabs.ai/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Machina Labs",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Robotic manufacturing cells for sheet-metal and composite parts. reshoring, defense-industrial capacity pressure, and flexible robotic production make tool-less manufacturing more valuable",
+      "tags": [
+        "manufacturing",
+        "industrial"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-machina-labs.json",
+      "signal_id": "company-web-enrichment-machina-labs-0",
+      "company_name_normalized": "machina-labs"
+    },
+    {
+      "index": 1,
+      "source": "Company web enrichment",
+      "source_url": "https://www.atomic.industries/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Atomic Industries",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "AI-native manufacturing for molds, tooling, and industrial production workflows. manufacturing labor shortages and AI-native CAD/CAM workflows are compressing tooling cycles",
+      "tags": [
+        "manufacturing",
+        "industrial"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-atomic-industries.json",
+      "signal_id": "company-web-enrichment-atomic-industries-1",
+      "company_name_normalized": "atomic-industries"
+    },
+    {
+      "index": 2,
+      "source": "Company web enrichment",
+      "source_url": "https://www.firstresonance.io/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "First Resonance",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Manufacturing operating system for complex hardware production. new aerospace, energy, and defense manufacturers need factory software built for modern hardware velocity",
+      "tags": [
+        "energy",
+        "manufacturing"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-first-resonance.json",
+      "signal_id": "company-web-enrichment-first-resonance-2",
+      "company_name_normalized": "first-resonance"
+    },
+    {
+      "index": 3,
+      "source": "Company web enrichment",
+      "source_url": "https://instrumental.com/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Instrumental",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "AI inspection and manufacturing data platform for electronics and complex assembly. computer vision and factory data make quality control more automated and less labor-intensive",
+      "tags": [
+        "manufacturing"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-instrumental.json",
+      "signal_id": "company-web-enrichment-instrumental-3",
+      "company_name_normalized": "instrumental"
+    },
+    {
+      "index": 4,
+      "source": "Company web enrichment",
+      "source_url": "https://aigen.io/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Aigen",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Autonomous solar-powered field robotics for agriculture. farm labor shortages, herbicide resistance, and robotics costs make autonomous field work more viable",
+      "tags": [
+        "robotics",
+        "agriculture"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-aigen.json",
+      "signal_id": "company-web-enrichment-aigen-4",
+      "company_name_normalized": "aigen"
+    },
+    {
+      "index": 5,
+      "source": "Company web enrichment",
+      "source_url": "https://farm-ng.com/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "farm-ng",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Modular farm robotics platform for small and specialty-crop growers. smaller farms need labor leverage and modular automation that fits existing operations",
+      "tags": [
+        "robotics"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-farm-ng.json",
+      "signal_id": "company-web-enrichment-farm-ng-5",
+      "company_name_normalized": "farm-ng"
+    },
+    {
+      "index": 6,
+      "source": "Company web enrichment",
+      "source_url": "https://www.agtonomy.com/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Agtonomy",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Autonomous and tele-assisted farm equipment platform. farm labor scarcity and fleet autonomy are converging with better perception and remote operations",
+      "tags": [
+        "autonomy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-agtonomy.json",
+      "signal_id": "company-web-enrichment-agtonomy-6",
+      "company_name_normalized": "agtonomy"
+    },
+    {
+      "index": 7,
+      "source": "Company web enrichment",
+      "source_url": "https://www.monarchtractor.com/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Monarch Tractor",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Electric autonomous tractor platform for farming operations. electrification, autonomy, and farm labor pressure create a new equipment replacement window",
+      "tags": [
+        "autonomy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-monarch-tractor.json",
+      "signal_id": "company-web-enrichment-monarch-tractor-7",
+      "company_name_normalized": "monarch-tractor"
+    },
+    {
+      "index": 8,
+      "source": "Company web enrichment",
+      "source_url": "https://www.gridware.io/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Gridware",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Grid monitoring hardware and analytics for utility distribution infrastructure. aging grid infrastructure, wildfire risk, and electrification demand more real-time grid visibility",
+      "tags": [
+        "grid",
+        "utility"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-gridware.json",
+      "signal_id": "company-web-enrichment-gridware-8",
+      "company_name_normalized": "gridware"
+    },
+    {
+      "index": 9,
+      "source": "Company web enrichment",
+      "source_url": "https://irrigreen.com/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Irrigreen",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Digitally controlled irrigation hardware that reduces water waste. water scarcity and connected hardware make irrigation efficiency a real infrastructure problem",
+      "tags": [
+        "water"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-irrigreen.json",
+      "signal_id": "company-web-enrichment-irrigreen-9",
+      "company_name_normalized": "irrigreen"
+    },
+    {
+      "index": 10,
+      "source": "Company web enrichment",
+      "source_url": "https://www.trellisclimate.com/",
+      "source_type": "primary",
+      "confidence": 0.62,
+      "company_name_raw": "Trellis Climate",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Permitting and interconnection workflow software for energy infrastructure. data-center load, grid congestion, and generation queues make infrastructure coordination a bottleneck",
+      "tags": [
+        "grid",
+        "energy"
+      ],
+      "signal_id": "company-web-enrichment-trellis-climate-10",
+      "company_name_normalized": "trellis-climate"
+    },
+    {
+      "index": 11,
+      "source": "Company web enrichment",
+      "source_url": "https://www.bedrockrobotics.com/",
+      "source_type": "primary",
+      "confidence": 0.82,
+      "company_name_raw": "Bedrock Robotics",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Company website",
+      "text": "Autonomy stack for heavy construction and earthmoving equipment. infrastructure backlog and labor shortages make off-road autonomy increasingly valuable",
+      "tags": [
+        "autonomy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/web-bedrock-robotics.json",
+      "signal_id": "company-web-enrichment-bedrock-robotics-11",
+      "company_name_normalized": "bedrock-robotics"
+    },
+    {
+      "index": 0,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "PUEBLO DE SAN ILDEFONSO",
+      "date": "2026-07-01",
+      "amount": 50000,
+      "agency_or_platform": "Department of Energy",
+      "text": "TRIBAL PARTICIPATION IN AREAS OF ACCIDENT PREVENTION AND EMERGENCY PREPAREDNESS RELATED TO DOE WIPP SHIPMENTS",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-pueblo-de-san-ildefonso-0",
+      "company_name_normalized": "pueblo-de-san-ildefonso"
+    },
+    {
+      "index": 1,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "NAC INTERNATIONAL INC.",
+      "date": "2026-06-01",
+      "amount": 996496,
+      "agency_or_platform": "Department of Energy",
+      "text": "DESIGN AND OBTAIN A REVISED NRC COC FOR A MODIFIED OPTIMUS-L TRANSPORTATION PACKAGING SYSTEM SPECIFICALLY DESIGNED FOR HALEU OXIDES, METALS, UF6, AND FINISHED FUEL. ALLOW FOR TRANSPORTATION OF SIGNIFICANT QUANTITIES OF REPROCESSED HALEU OXIDES, METALS, 5B CYLINDERS OF UF6 AND FINISHED FUEL. RELATIVELY ECONOMICAL FOR SHORT AND MEDIUM-TERM CONTINUOUS USE, POSSESS FAVORABLE HANDLING AND PRODUCT TRANSFER CHARACTERISTICS, AND INTEGRATE EFFECTIVELY INTO EXISTING INFRASTRUCTURE MAKING IT PRACTICAL FOR USE BY ENRICHERS, FUEL FABRICATORS, AND OPERATORS OF SMRS",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-nac-international-inc-1",
+      "company_name_normalized": "nac-international-inc"
+    },
+    {
+      "index": 2,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "NAC INTERNATIONAL INC.",
+      "date": "2026-06-01",
+      "amount": 1672302,
+      "agency_or_platform": "Department of Energy",
+      "text": "DESIGN, TEST, AND OBTAIN AN NRC COC FOR A NEW HALEU OXIDES, METALS, AND FINISHED FUEL TRANSPORTATION PACKAGING SYSTEM SPECIFICALLY DESIGNED FOR HALEU FUEL. POSSESS FAVORABLE HANDLING AND PRODUCT TRANSFER CHARACTERISTICS, AND INTEGRATE EFFECTIVELY INTO EXISTING INFRASTRUCTURE MAKING IT PRACTICAL FOR USE BY ENRICHERS, FUEL FABRICATORS, AND OPERATORS OF SMRS.",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-nac-international-inc-2",
+      "company_name_normalized": "nac-international-inc"
+    },
+    {
+      "index": 3,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "UNIVERSITY OF SOUTH CAROLINA",
+      "date": "2026-06-01",
+      "amount": 150000,
+      "agency_or_platform": "Department of Energy",
+      "text": "ELUCIDATING FLAVOR CONTENT OF NUCLEONS IN NUCLEI",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-university-of-south-carolina-3",
+      "company_name_normalized": "university-of-south-carolina"
+    },
+    {
+      "index": 4,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "NORTHEASTERN UNIVERSITY",
+      "date": "2026-06-01",
+      "amount": 500000,
+      "agency_or_platform": "Department of Energy",
+      "text": "NORTHEASTERN UNIVERSITY SUBMITTED A GRANT PROPOSAL UNDER CONTROL #3477-1622 TO THE SUBJECT NOFO FOR A PROJECT TO COMBINE AEROBIC AND ANAEROBIC METABOLISM IN A SINGLE BIOREACTOR FOR TRANSFORMATIVE BIOFUEL PRODUCTION METRICS FROM C1 FEEDSTOCKS.",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-northeastern-university-4",
+      "company_name_normalized": "northeastern-university"
+    },
+    {
+      "index": 5,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.",
+      "date": "2026-05-27",
+      "amount": 498634,
+      "agency_or_platform": "Department of Energy",
+      "text": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY (ERAU). NEW GRANT\nDE-FOA-0003477 - INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY (IGNIITE) 2025 \nCONTROL NUMBER: 3477-1873\n\nTHIS GRANT FOR RESEARCH AND DEVELOPMENT ENTITLED, “4D PRINTING SMART MULTIFUNCTIONAL STRUCTURAL BATTERIES FOR AEROSPACE APPLICATIONS: AN ADVANCEMENT IN GANTRIFYING” IS AWARDED TO EMBRY-RIDDLE AERONAUTICAL UNIVERSITY (ERAU) UNDER ARPA-E FOA NUMBER DE-FOA-0003477 - INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY (IGNIITE) 2025 AND CONTROL NUMBER: 3477-1873. THIS PROJECT AIMS TO REVOLUTIONIZE ADVANCED AIR MOBILITY DUE TO THEIR POTENTIAL TO REDUCE EMISSIONS, IMPROVE ENVIRONMENTAL SUSTAINABILITY, ENHANCE ACCESSIBILITY, AND ALLEVIATE GROUND TRAFFIC CONGESTION.",
+      "tags": [
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-embry-riddle-aeronautical-university-inc-5",
+      "company_name_normalized": "embry-riddle-aeronautical-university-inc"
+    },
+    {
+      "index": 6,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "THE JOHNS HOPKINS UNIVERSITY",
+      "date": "2026-05-22",
+      "amount": 500000,
+      "agency_or_platform": "Department of Energy",
+      "text": "NEW GRANT UNDER DE-FOA-0003477 (IIGNITE CONTROL NUMBER: 3477-1619). \nPROJECT TITLE: ADDRESSING THE CESIUM PROBLEM FOR NEGATIVE HYDROGEN ION SOURCES\nTHE DEVELOPMENT OF FUSION ENERGY IS CHALLENGED BY THE NEED FOR STABLE NEGATIVE HYDROGEN-ION BEAMS, WHICH CURRENTLY REQUIRE PROBLEMATIC CESIUM COATINGS. THIS PROPOSAL INTRODUCES HIGH-ENTROPY MATERIALS (HEMS) AS A POTENTIAL SOLUTION, OFFERING ENHANCED STABILITY, RADIATION TOLERANCE, AND TUNABLE ELECTRONIC PROPERTIES TO OVERCOME THESE LIMITATIONS.",
+      "tags": [
+        "energy",
+        "materials"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-the-johns-hopkins-university-6",
+      "company_name_normalized": "the-johns-hopkins-university"
+    },
+    {
+      "index": 7,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "MICHIGAN STATE UNIVERSITY",
+      "date": "2026-05-22",
+      "amount": 500000,
+      "agency_or_platform": "Department of Energy",
+      "text": "MICHIGAN STATE UNIVERSITY - NEW GRANT UNDER DE-FOA-0003477 (IIGNITE CONTROL NUMBER: 3477-1829). \nPROJECT TITLE: TRANSFORMATIVE ULTRA-FLEXIBLE CONCRETE FOR EXTREME ENVIRONMENTS\nULTRA-FLEXIBLE CONCRETE (UFC) IS A NOVEL MATERIAL DESIGNED TO OVERCOME THE LIMITATIONS OF TRADITIONAL CONCRETE AND STEEL IN ENERGY INFRASTRUCTURE BY COMBINING THEIR BEST PROPERTIES. THIS INNOVATIVE CONCRETE BOASTS EXCEPTIONAL DUCTILITY, SELF-HEALING CAPABILITIES, AND RESISTANCE TO EXTREME TEMPERATURES, MAKING IT IDEAL FOR CRITICAL APPLICATIONS LIKE LNG STORAGE AND GEOTHERMAL WELLS, ULTIMATELY EXTENDING SERVICE LIFE AND REDUCING COSTS.",
+      "tags": [
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-michigan-state-university-7",
+      "company_name_normalized": "michigan-state-university"
+    },
+    {
+      "index": 8,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "UNIVERSITY OF WISCONSIN SYSTEM",
+      "date": "2026-05-19",
+      "amount": 2334274,
+      "agency_or_platform": "Department of Energy",
+      "text": "UNIVERSITY OF WISCONSIN-MADISON. NEW COOPERATIVE AGREEMENT.\nDE-FOA-0003387 VISION OPEN 2024\nPROJECT TITLE: AN ELECTRICALLY RECHARGEABLE FUEL FOR CHEMICAL WIRES THAT CONNECT ELECTRICAL POWER NETWORKS\nCONTROL NO. 3387-1968\n\nTHIS GRANT FOR RESEARCH AND DEVELOPMENT ENTITLED, “AN ELECTRICALLY RECHARGEABLE FUEL FOR CHEMICAL WIRES THAT CONNECT ELECTRICAL POWER NETWORKS'' IS AWARDED TO UNIVERSITY OF WISCONSIN-MADISON UNDER ARPA-E FOA NUMBER DE-FOA-0003387 VISION OPEN 2024 AND CONTROL NUMBER: 3387-1968. THIS PROJECT AIMS TO DEVELOP HIGH ENERGY DENSITY CHEMICALS FOR TRANSPORTATION. THESE CHEMICALS ARE RECHARGEABLE, CAN BE SHIPPED TO NEW LOCATIONS, AND DELIVER STORED ENERGY BACK INTO THE GRID AT LOWER COSTS THAN THE CONSTRUCTION OF NEW POWER LINES.",
+      "tags": [
+        "grid",
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-university-of-wisconsin-system-8",
+      "company_name_normalized": "university-of-wisconsin-system"
+    },
+    {
+      "index": 9,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "date": "2026-05-15",
+      "amount": 1520278,
+      "agency_or_platform": "Department of Energy",
+      "text": "CONTROL #: 3405-1505\nREGENTS OF THE UNIVERSITY OF CALIFORNIA \nFOA NUMBER: DE-FOA-0003405 – TECHNOLOGIES TO EMEND AND OBVIATE SYNTHETIC NITROGEN’S TOLL ON EMISSIONS (TEOSYNTE)\nLEAD: LAWRENCE BERKELEY NATIONAL LABORATORY \nPROJECT TITLE: DEVELOPING BIOLOGICAL NITRIFICATION INHIBITORS TO REDUCE N2O EMISSIONS IN SORGHUM\n\nTHIS PROJECT AIMS TO HARNESS PLANT-MICROBE INTERACTIONS TO DEVELOP A SUSTAINABLE APPROACH TO REDUCING N2O EMISSIONS IN SORGHUM, ENHANCING SOIL NUTRIENT RETENTION, AND DECREASING NITROGEN FERTILIZER USE.\n\nNEW AWARD",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-regents-of-the-university-of-california-the-9",
+      "company_name_normalized": "regents-of-the-university-of-california-the"
+    },
+    {
+      "index": 10,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "PRECISION COMBUSTION, INC.",
+      "date": "2026-05-14",
+      "amount": 1599990,
+      "agency_or_platform": "Department of Energy",
+      "text": "CONTROL NUMBER 2505-1506\nPRECISION COMBUSTION, INC.\nDE-FOA-0002505 REMEDY SBIR/STTR\nPROJECT TITLE: ''DESTRUCTION OF VAM USING A MODULAR CATALYTIC ELEMENT SYSTEM''\n\nTHE PURPOSE OF THIS PROJECT IS TO ELIMINATE THE RELEASE OF VENTILATION AIR METHANE (VAM) ASSOCIATED WITH COAL PRODUCTION BY DEVELOPING AN INNOVATIVE MODULAR ARRAY COMBINING THREE KEY ELEMENTS: (1) SHORT CONTACT TIME, LOW THERMAL MASS REACTOR DESIGN TO ACHIEVE MAXIMAL TOTAL CONVERSION IN A SMALL VOLUME, (2) CATALYST FORMULATION AND LOADING TO MINIMIZE THE REQUIRED OPERATING TEMPERATURE OF THE CATALYTIC OXIDATION, AND (3) SYSTEM DESIGN AND ARCHITECTURE TO MAXIMIZE THE DEGREE TO WHICH RELEASED HEAT IS RETAINED AND RECIRCULATED IN BETWEEN ELEMENTS.\n\nNEW AWARD PHASE III - ADDITIONAL FUNDING FOR SBIR AWARD 1537 (AMPLIFY) PRECISION COMBUSTION",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-precision-combustion-inc-10",
+      "company_name_normalized": "precision-combustion-inc"
+    },
+    {
+      "index": 11,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "INSTITUTE OF GAS TECHNOLOGY",
+      "date": "2026-05-13",
+      "amount": 499900,
+      "agency_or_platform": "Department of Energy",
+      "text": "ROBUST CARBON-DOPED TITANIUM OXIDE (CDTO) MEMBRANE WITH TUNABLE NANOPORES FOR IN SITU CATALYST RETENTION AND ORGANIC SOLVENT RECOVERY IN SUZUKI REACTION.\n\nPROGRAM OVERVIEW \n\nTHE INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY (IGNIITE) 2025 PROGRAM IS DESIGNED TO SUPPORT A NEW COHORT OF EARLY-CAREER INNOVATORS TO DEVELOP THE MOST DISRUPTIVE AND UNCONVENTIONAL IDEAS INTO TRANSFORMATIVE NEW TECHNOLOGIES ACROSS THE FULL SPECTRUM OF ENERGY APPLICATIONS. THIS ANNOUNCEMENT IS PURPOSEFULLY BROAD IN TECHNICAL SCOPE, BUT ELIGIBILITY IS LIMITED TO EARLY-CAREER RESEARCHERS AS DEFINED IN SECTION II.A. IN ADDITION TO RESEARCH EFFORTS, AWARDEES WILL ENGAGE WITH ARPA-E AND FELLOW AWARDEES THROUGH DEDICATED IGNIITE EVENTS, MEETINGS, AND MENTORSHIP ACTIVITIES. \n\nSUBMISSIONS TO THIS SOLICITATION MUST PROPOSE TRANSFORMATIONAL R&D THAT HAS THE POTENTIAL FOR HIGH IMPACT. IF SUCCESSFUL, A PROJECT COULD CREATE A NEW CLASS OR NEW TRAJECTORY FOR AN ENERGY TECHNOLOGY, WITH THE POTENTIAL TO SUBSTANTIALLY CONTRIBUTE TO ARPA-E’S STATUTORY GOALS (SEE SECTION I.A). \n\nAWARDS UNDER THIS PROGRAM MAY TAKE THE FORM OF EXPLORATORY RESEARCH THAT PROVIDES THE AGENCY WITH INFORMATION USEFUL FOR THE SUBSEQUENT DEVELOPMENT OF FOCUSED TECHNOLOGY PROGRAMS. ALTERNATIVELY, AWARDS MAY SUPPORT PROOF-OF-CONCEPT RESEARCH FOR A PARTICULAR NEW TECHNOLOGY IN AN AREA NOT CURRENTLY SUPPORTED BY THE AGENCY.\n\nTO VIEW THE NOFO IN ITS ENTIRETY, PLEASE VISIT HTTPS://ARPA-E-FOA.ENERGY.GOV.",
+      "tags": [
+        "energy",
+        "spectrum"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-institute-of-gas-technology-11",
+      "company_name_normalized": "institute-of-gas-technology"
+    },
+    {
+      "index": 12,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "V-GLASS INC",
+      "date": "2026-05-13",
+      "amount": 1000000,
+      "agency_or_platform": "Department of Energy",
+      "text": "CONTROL # 3488-1502\nV-GLASS INC. \nTITLE: INNOVATIVE TECHNOLOGY ENABLING AFFORDABLE R-10 WINDOWS \nDE-FOA-0003488 GALVANIZING LEAPS IN ADVANCED SUPER INSULATING GLASS (GLASING)\n\nTHE PURPOSE OF THIS AWARD IS TO SUPPORT THE INNOVATION REQUIRED IN DEVELOPING AUTOMATION TECHNOLOGY TO INDUSTRIALIZE PRODUCTION, AIMING TO DELIVER COMMERCIAL QUALITY VIG’S AT PRICES COMPETITIVE TO DUAL PANE IGU. V-GLASS WILL USE THEIR VACUUM INSULATING GLASS (VIG) WHICH FEATURES AN EFFICIENT SPACER DESIGN AND LOW-CONDUCTIVITY EDGE SEAL, PRODUCED AT ROOM TEMPERATURE WHICH REDUCES MANUFACTURING COSTS, CYCLE TIME, AND INCREASES PRODUCTION YIELDS.\n\nNEW AWARD",
+      "tags": [
+        "manufacturing",
+        "industrial"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-v-glass-inc-12",
+      "company_name_normalized": "v-glass-inc"
+    },
+    {
+      "index": 13,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+      "date": "2026-05-12",
+      "amount": 500000,
+      "agency_or_platform": "Department of Energy",
+      "text": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY. NEW AWARD.\nDE-FOA-0003477 - INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY (IGNIITE) 2025\nCONTROL NUMBER: 3477-1739\n\nTHIS GRANT FOR RESEARCH AND DEVELOPMENT ENTITLED, “NEGATIVE CAPACITANCE ELECTROSTATIC ENERGY STORAGE TECHNOLOGY FOR POWERING DATA CENTERS'' IS AWARDED TO MASSACHUSETTS INSTITUTE OF TECHNOLOGY (MIT) UNDER ARPA-E FOA NUMBER DE-FOA-0003477 - INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY (IGNIITE) 2025 AND CONTROL NUMBER: 3477-1739. THIS PROJECT AIMS TO FURTHER SCALE TO THE TOTAL ENERGY OUTPUT OF OUR NEGATIVE-PERMITTIVITY CAPACITORS BY UTILIZING A NOVEL IN-PLANE GEOMETRY, OVERCOMING THE ENERGY DENSITY LIMITATIONS OF TRADITIONAL BULK ELECTROSTATIC CAPACITORS.",
+      "tags": [
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-massachusetts-institute-of-technology-13",
+      "company_name_normalized": "massachusetts-institute-of-technology"
+    },
+    {
+      "index": 14,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "ADDIS ENERGY, INC.",
+      "date": "2026-05-12",
+      "amount": 4280383,
+      "agency_or_platform": "Department of Energy",
+      "text": "ADDIS ENERGY, INC.\nCONTROL NUMBER 3387-2218\nVISION OPEN 2024\nTITLE: STIMULATED GEOLOGIC AMMONIA AS A NEW PRIMARY ENERGY RESOURCE\n\nADDIS ENERGY IS OPTIMIZING AND SCALING AN AMMONIA SYNTHESIS REACTION LEVERAGING GEOLOGIC RESOURCES. ADDIS ENERGY WILL COMBINE EXPERIMENTAL RESULTS WITH COMPUTATIONAL MODELING TO SCALE REACTIONS FROM BATCH REACTIONS TO FIELD PILOT DEMONSTRATION. ADDITIONALLY, ADDIS ENERGY WILL COMPLETE TECHNO ECONOMIC AND LIFE CYCLE ANALYSIS TO DETERMINE THE COST AND ENVIRONMENTAL BENEFITS OF THIS NEW AMMONIA SYNTHESIS PATHWAY.",
+      "tags": [
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-addis-energy-inc-14",
+      "company_name_normalized": "addis-energy-inc"
+    },
+    {
+      "index": 15,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "STATE OF IDAHO DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "date": "2026-05-11",
+      "amount": 230044,
+      "agency_or_platform": "Department of Energy",
+      "text": "RESOURCE CONSERVATION RECOVERY ACT(RCRA) AND IDAHO HAZARDOUS WASTE MANAGEMENT ACT(HWMA) ENVIRONMENTAL PERMITTING AND REGULATORY PLANNING ACTIVITIES AND RCRA/HWMA COMPLIANCE INSPECTIONS.",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-state-of-idaho-department-of-environmental-quality-15",
+      "company_name_normalized": "state-of-idaho-department-of-environmental-quality"
+    },
+    {
+      "index": 16,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "SRS COMMUNITY REUSE ORGANIZATION (SRS CRO)",
+      "date": "2026-05-09",
+      "amount": 1000000,
+      "agency_or_platform": "Department of Energy",
+      "text": "THE WORKFORCE OPPORTUNITIES IN REGIONAL CAREERS RENEWAL GRANT PROGRAM GOAL IS TO ENSURE THAT LOCAL CITIZENS IN THE SAVANNAH RIVER SITE TWO-STATE REGION HAVE OPPORTUNITIES TO DEVELOP SKILLS NEEDED FOR CAREERS RELEVANT TO DOE-EM AND NNSA MISSIONS, PARTICULARLY THOSE AT THE SAVANNAH RIVER SITE.",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-srs-community-reuse-organization-srs-cro-16",
+      "company_name_normalized": "srs-community-reuse-organization-srs-cro"
+    },
+    {
+      "index": 17,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "CAROLLO ENGINEERS INC",
+      "date": "2026-05-07",
+      "amount": 2423292,
+      "agency_or_platform": "Department of Energy",
+      "text": "CAROLLO ENGINEERS, INC. NEW COOPERATIVE AGREEMENT.\nPROJECT TITLE: SELECTIVE RECOVERY OF CRITICAL METALS FROM PRODUCED WATER USING ENGINEERED FERRITIN PROTEIN NANOCAGES\nDE-FOA-0003510 – REALIZE ENERGY-RICH COMPOUND OPPORTUNITIES VALORIZING EXTRACTION FROM REFUSE WATERS (RECOVER)\nCONTROL NUMBER 3510-1660\n\nTHIS GRANT FOR RESEARCH AND DEVELOPMENT ENTITLED, ''SELECTIVE RECOVERY OF CRITICAL METALS FROM PRODUCED WATER USING ENGINEERED FERRITIN PROTEIN NANOCAGES” IS AWARDED TO CAROLLO ENGINEERS, INC. UNDER ARPA-E FOA NUMBER DE-FOA-0003510, REALIZE ENERGY-RICH COMPOUND OPPORTUNITIES VALORIZING EXTRACTION FROM REFUSE WATERS (RECOVER) AND CONTROL NUMBER: 3510-1660. THIS PROJECT AIMS TO DEVELOP METHODS TO RECOVER CRITICAL METALS (CMS) DIRECTLY FROM PRODUCED WATER PROVIDES A DUAL BENEFIT: REDUCING THE ENVIRONMENTAL IMPACTS OF WASTEWATER MANAGEMENT WHILE STRENGTHENING DOMESTIC SUPPLY CHAINS FOR STRATEGIC RESOURCES.",
+      "tags": [
+        "energy",
+        "water"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-carollo-engineers-inc-17",
+      "company_name_normalized": "carollo-engineers-inc"
+    },
+    {
+      "index": 18,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "UNIVERSITY OF WISCONSIN SYSTEM",
+      "date": "2026-05-06",
+      "amount": 199763,
+      "agency_or_platform": "Department of Energy",
+      "text": "NEW FY25 REACTOR SHARING AND OUTREACH AWARD TO THE UNIVERSITY OF WISCONSIN",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-university-of-wisconsin-system-18",
+      "company_name_normalized": "university-of-wisconsin-system"
+    },
+    {
+      "index": 19,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "MOTIBERA, INC.",
+      "date": "2026-05-06",
+      "amount": 500000,
+      "agency_or_platform": "Department of Energy",
+      "text": "MOTIBERA, INC. NEW GRANT.\nDE-FOA-0003477 - INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY (IGNIITE) 2025\nCONTROL NUMBER: 3477-1819\n\nTHIS GRANT FOR RESEARCH AND DEVELOPMENT ENTITLED, “SELF-SUPPORTING MOTORS FOR MASS ADOPTION OF EFFICIENT DRIVE TECHNOLOGY'' IS AWARDED TO MOTIBERA, INC. UNDER ARPA-E FOA NUMBER DE-FOA-0003477 - INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY (IGNIITE) 2025 AND CONTROL NUMBER: 3477-1819. THIS PROJECT AIMS TO INNOVATIVE ELECTRIC MACHINE CONCEPT THAT ELIMINATES MECHANICAL BEARINGS USING “SELF-SENSING” CONTROL AND “SELF-BEARING” ELECTROMAGNETIC FORCES FOR ROTOR LEVITATION.",
+      "tags": [
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-motibera-inc-19",
+      "company_name_normalized": "motibera-inc"
+    },
+    {
+      "index": 20,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "SEMPLASTICS EHC LLC",
+      "date": "2026-05-05",
+      "amount": 999998,
+      "agency_or_platform": "Department of Energy",
+      "text": "INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) – A DOMESTIC CRITICAL MATERIAL SOLUTION: ABUNDANT GRAPHITE ANODE SUBSTITUTE FOR LITHIUM BATTERIES.",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-semplastics-ehc-llc-20",
+      "company_name_normalized": "semplastics-ehc-llc"
+    },
+    {
+      "index": 21,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "CITY OF MAYWOOD",
+      "date": "2026-05-04",
+      "amount": 250000,
+      "agency_or_platform": "Department of Energy",
+      "text": "MAYWOOD COMMUNITY RESILIENCE CENTER ENERGY STORAGE PROJECT. THE MAYWOOD COMMUNITY RESILIENCE CENTER ENERGY STORAGE PROJECT IS A PROJECT WHERE A SOLAR PHOTOVOLTAIC AND BATTERY ENERGY STORAGE SYSTEM WILL BE INSTALLED WITHIN THE COMMUNITY RESILIENCE CENTER TO PROVIDE BACKUP POWER TO CRITICAL LOADS FOR MEMBERS OF THE COMMUNITY, THAT WILL ENABLE POWERING MEDICAL EQUIPMENT, LIGHTING, REFRIGERATION FOR MEDICINES, AND OTHER CRITICAL POWER-RELATED NEEDS.",
+      "tags": [
+        "battery",
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-city-of-maywood-21",
+      "company_name_normalized": "city-of-maywood"
+    },
+    {
+      "index": 22,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "NORTH CAROLINA STATE UNIVERSITY",
+      "date": "2026-05-04",
+      "amount": 1175000,
+      "agency_or_platform": "Department of Energy",
+      "text": "3488-1503\nNORTH CAROLINA STATE UNIVERSITY\nDE-FOA-0003488 GALVANIZING LEAPS IN ADVANCED SUPER INSULATING GLASS (GLASING)\nTITLE: VACUUM INSULATED GLAZING ENABLED BY TOUGHENED COMPOSITE GLASSY GEL\n\nTHE PROPOSED PROJECT AIMS TO DEVELOP A NOVEL ROOM-TEMPERATURE, STIFF YET TOUGH, HERMETIC YET FLEXIBLE VACUUM EDGE SEAL FOR LOW-COST, HIGHLY INSULATING, RETROFITTABLE VACUUM INSULATING GLAZINGS (VIGS).\n\nNEW AWARD",
+      "tags": [],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-north-carolina-state-university-22",
+      "company_name_normalized": "north-carolina-state-university"
+    },
+    {
+      "index": 23,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "WORCESTER POLYTECHNIC INSTITUTE",
+      "date": "2026-05-01",
+      "amount": 1000000,
+      "agency_or_platform": "Department of Energy",
+      "text": "THE DEPARTMENT OF ENERGY (DOE), OFFICE OF FOSSIL ENERGY AND CARBON MANAGMENT INTENDS TO HELP BUILD OFF \nOF PRIOR DOE AND PRIVATE INDUSTRY INVESTMENTS ACROSS THE CRITICAL MATERIALS SUPPLY CHAIN, FROM \nEXTRACTION, PROCESSING, REFINING, MANUFACTURING, AND RECYCLING, AS WELL AS ON INVESTMENTS IN DEVELOPING \nALTERNATIVE MATERIALS OR MANUFACTURED PRODUCTS WITH LESS SUPPLY VULNERABILITY. THIS FUNDING OPPORTUNITY \nIS LOOKING TO DEVELOP BENCH SCALE CONCEPTS IN THE TECHNOLOGY READINESS LEVEL (TRL) 2 TO 4 RANGE AND TO \nDEMONSTRATE PROCESSES ON A CONTINUOUS/SEMICONTINUOUS BENCH SCALE BEFORE SCALING UP TO PILOT SCALE, AT TRL \n6.  FECM SUPPORTS REBUILDING THE U.S. LEADERSHIP ROLE IN THE ECONOMICALLY VIABLE, ENVIRONMENTALLY \nRESPONSIBLE EXTRACTION, SEPARATION, PROCESSING, REFINING, AND RECYCLING OF CRITICAL MINERALS AND \nMATERIALS (CMM)",
+      "tags": [
+        "energy",
+        "manufacturing",
+        "materials"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-worcester-polytechnic-institute-23",
+      "company_name_normalized": "worcester-polytechnic-institute"
+    },
+    {
+      "index": 24,
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "source_type": "market context",
+      "confidence": 0.58,
+      "company_name_raw": "UTAH OFFICE OF ENERGY DEVELOPMENT",
+      "date": "2026-05-01",
+      "amount": 1492000,
+      "agency_or_platform": "Department of Energy",
+      "text": "AT THE UTAH OFFICE OF ENERGY DEVELOPMENT, WE ARE EQUIPPING OUR LABORATORIES TO RESEARCH A VARIETY OF POTENTIAL SUSTAINABLE ENERGY SOLUTIONS SUCH AS ADVANCED FOSSIL FUEL POWER, NEXT GENERATION NUCLEAR POWER, HYDROGEN, AND OTHER NUCLEAR POWER APPLICATIONS SUCH AS NUCLEAR BATTERIES AND NUCLEAR-POWERED ROCKETS.  ONE ASPECT THAT ALL THESE TECHNOLOGIES HAVE IN COMMON IS THAT THE INTEGRITY OF THESE SYSTEMS UNDER EXTREME OPERATING CONDITIONS MUST BE VERIFIED ON THE MICROSCOPIC LEVEL DURING DEVELOPMENT, TO ENSURE THAT THESE PRODUCTS AND APPLICATIONS ARE ROBUST ENOUGH TO FUNCTION COMMERCIALLY. A HELIOS FOCUSED ION BEAM SCANNING ELECTRON MICROSCOPE (FIB-SEM) ACQUIRED WITH CONGRESSIONALLY DIRECTED FUNDING WILL BE USED IN RESEARCH AT OUR CENTER TO SOLVE SPECIFIC TECHNICAL PROBLEMS IN THESE ENERGY FIELDS.",
+      "tags": [
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/usaspending.json",
+      "signal_id": "usaspending-utah-office-of-energy-development-24",
+      "company_name_normalized": "utah-office-of-energy-development"
+    },
+    {
+      "index": 8,
+      "source": "FCC ECFS",
+      "source_url": "https://www.fcc.gov/ecfs/",
+      "source_type": "market context",
+      "confidence": 0.45,
+      "company_name_raw": "Spectrum Business Trust 2025-1",
+      "date": "2026-06-03T19:57:50.228Z",
+      "agency_or_platform": "FCC",
+      "text": "Applications of Spectrum Business Trust 2025-1, Space Exploration Technologies Corp., and EchoStar Corporation for Consent to Assign Spectrum and Earth Station Licenses",
+      "tags": [
+        "spectrum"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/fcc-ecfs.json",
+      "signal_id": "fcc-ecfs-spectrum-business-trust-2025-1-8",
+      "company_name_normalized": "spectrum-business-trust-2025-1"
+    },
+    {
+      "index": 0,
+      "source": "ARPA-E projects",
+      "source_url": "https://arpa-e.energy.gov/technologies/projects",
+      "source_type": "market context",
+      "confidence": 0.35,
+      "company_name_raw": "ARPA-E projects",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "ARPA-E projects",
+      "text": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />\n<link rel=\"canonical\" href=\"https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects\" />\n<meta name=\"Generator\" content=\"Drupal 10 (https://www.drupal.org)\" />\n<meta name=\"MobileOptimized\" content=\"width\" />\n<meta name=\"HandheldFriendly\" content=\"true\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n<link rel=\"icon\" href=\"/themes/custom/arpae_react/favicon.png\" type=\"image/png\" />\n\n    <title>Search All Projects | ARPA-E</title>\n    <link rel=\"stylesheet\" media=\"all\" href=\"/sites/default/files/css/css_m8Z42TnYSB70PJ9DZDbgST9kEBvmxpKiazJqBs6MshE.css?delta=0&amp;language=en&amp;theme=arpae_react&amp;include=eJwrriwuSc3VT0osTgUAG5MEcA\" />\n\n    <script src=\"https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOE&amp;subagency=ARPAE&amp;siteplatform=Drupal\" id=\"_fed_an_ua_tag\" async></script>\n\n    <link rel=\"stylesheet\" media=\"all\" href=\"/themes/custo",
+      "tags": [
+        "energy"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/arpa-e-projects.json",
+      "signal_id": "arpa-e-projects-arpa-e-projects-0",
+      "company_name_normalized": "arpa-e-projects"
+    },
+    {
+      "index": 0,
+      "source": "MSHA MDRS",
+      "source_url": "https://catalog.data.gov/dataset/msha-mine-data-retrieval-system-mdrs",
+      "source_type": "market context",
+      "confidence": 0.35,
+      "company_name_raw": "MSHA MDRS",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "MSHA MDRS",
+      "text": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <!-- datalayer injection -->\n  \n<script nonce=\"oSU9vrOONo11nVl1I0Sq94GtJUR-0sdy\">\n    window.dataLayer = window.dataLayer || [];\n\n    // determine whether the user-agent is a bot\n    const bot_regex = /(googlebot|bingbot|yahoo|y!j|yeti|bytespider|applebot|headlesschrome|facebook(bot|externalhit)?|baidu|petalbot|duckduckbot|slurp|semrush|ahrefs|mj12bot|dotbot|crawler|spider|bot)/i;\n    let is_bot = false\n\n    if (bot_regex.test(navigator.userAgent)) {\n        is_bot = true\n    }\n\n    dataLayer.push({\n        \"nodeID\": \"842bf0e5-2970-42d7-af1e-f14ea5a292af\",\n        \"contentType\": \"dataset\",\n        \"language\": \"en\",\n        \"homepageTest\": \"not_homepage\",\n        \"basicPagesubType\": \"dataset\",\n        \"Page_Type\": \"Dataset Page\",\n        \"organization\": \"Department of Labor\",\n        \"publisher\": \"Mine Safety and Health Administration\",\n        \"is_bot\": is_bot\n    });\n</script>\n\n  <!-- end datalayer injection -->\n  <!-- Google analytics -->\n  <",
+      "tags": [
+        "grid",
+        "mining",
+        "federal"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/msha-mdrs.json",
+      "signal_id": "msha-mdrs-msha-mdrs-0",
+      "company_name_normalized": "msha-mdrs"
+    },
+    {
+      "index": 0,
+      "source": "Black Flag 100",
+      "source_url": "https://www.blackflag.vc/100-2",
+      "source_type": "manual review",
+      "confidence": 0.35,
+      "company_name_raw": "Black Flag 100",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Black Flag 100",
+      "text": "<!DOCTYPE html><!-- Last Published: Tue May 26 2026 16:53:59 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain=\"www.blackflag.vc\" data-wf-page=\"69d6c5c3fa4c5e6b2ff9b724\" data-wf-site=\"67b7bd66a833218252c34cde\" lang=\"en\"><head><meta charset=\"utf-8\"/><link href=\"https://cdn.prod.website-files.com\" rel=\"preconnect\" crossorigin=\"anonymous\"/><title>Black Flag 100.2</title><meta content=\"Celebrating 100 companies that founders are most excited about in 2026. Over 500 founders nominated over 1,500 companies.\" name=\"description\"/><meta content=\"Black Flag 100.2\" property=\"og:title\"/><meta content=\"Celebrating 100 companies that founders are most excited about in 2026. Over 500 founders nominated over 1,500 companies.\" property=\"og:description\"/><meta content=\"https://cdn.prod.website-files.com/67b7bd66a833218252c34cde/6a03f560a77266c68bb5b3c3_BF100-2-OG.jpg\" property=\"og:image\"/><meta content=\"Black Flag 100.2\" name=\"twitter:title\"/><meta content=\"Celebrating 100 companies that fou",
+      "tags": [
+        "grid",
+        "battery",
+        "energy",
+        "manufacturing",
+        "robotics",
+        "agriculture",
+        "water",
+        "spectrum",
+        "mining",
+        "industrial",
+        "autonomy",
+        "materials",
+        "federal",
+        "utility"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/black-flag-100.json",
+      "signal_id": "black-flag-100-black-flag-100-0",
+      "company_name_normalized": "black-flag-100"
+    },
+    {
+      "index": 0,
+      "source": "YC Hard Tech",
+      "source_url": "https://www.ycombinator.com/companies/industry/hard-tech",
+      "source_type": "manual review",
+      "confidence": 0.35,
+      "company_name_raw": "YC Hard Tech",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "YC Hard Tech",
+      "text": "<!DOCTYPE html><html lang=\"en\"><head><title>Hard Tech Startups funded by Y Combinator (YC) 2026 | Y Combinator</title><meta name=\"csrf-param\" content=\"authenticity_token\" />\n<meta name=\"csrf-token\" content=\"iXbuUwCj9eAQrOKibBsV1VUPs1FsK28iKmaU-h73Mhj7txIvGPTWz7xlOPM99WrbII_X-tu6DZC7Dgjzo-Bf6Q\" /><meta charset=\"utf-8\" /><meta content=\"IE=edge;chrome=1\" http-equiv=\"X-UA-Compatible\" /><script nonce=\"E0rlrvkjMGDoJ9yJe52dXQ==\">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-51714649-1', 'auto');\nga('require', 'linkid', 'linkid.js');\nga('send', 'pageview');\n\nfunction parseUrl(url){\n  var a = document.createElement('a');\n  a.href = url;\n  return {\n    href: a.href,\n    host: a.host || location.host,\n    port: ('0' ",
+      "tags": [
+        "grid",
+        "battery",
+        "energy",
+        "manufacturing",
+        "robotics",
+        "agriculture",
+        "water",
+        "mining",
+        "industrial",
+        "autonomy",
+        "materials",
+        "federal"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/yc-hard-tech.json",
+      "signal_id": "yc-hard-tech-yc-hard-tech-0",
+      "company_name_normalized": "yc-hard-tech"
+    },
+    {
+      "index": 0,
+      "source": "Greenhouse Job Board API docs",
+      "source_url": "https://developers.greenhouse.io/job-board.html",
+      "source_type": "market context",
+      "confidence": 0.35,
+      "company_name_raw": "Greenhouse Job Board API docs",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Greenhouse Job Board API docs",
+      "text": "\n<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta content=\"IE=edge,chrome=1\" http-equiv=\"X-UA-Compatible\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n    <link rel=\"manifest\" href=\"/images/favicons/manifest.json\">\n\n<link rel=\"icon\" href=\"images/favicons/favicon.ico\" sizes=\"32x32\">\n<link rel=\"icon\" href=\"images/favicons/icon.svg\" type=\"image/svg+xml\">\n<link rel=\"apple-touch-icon\" href=\"images/favicons/apple-touch-icon.png\">\n\n<meta name=\"theme-color\" content=\"#047957\"><!-- Birch Green 700 -->\n\n    <title>Job Board API | Greenhouse</title>\n\n    <style media=\"screen\">\n      .highlight table td { padding: 5px; }\n.highlight table pre { margin: 0; }\n.highlight, .highlight .w {\n  color: #f8f8f2;\n  background-color: #272822;\n}\n.highlight .err {\n  color: #272822;\n  background-color: #f92672;\n}\n.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {\n  color: #75715",
+      "tags": [
+        "agriculture"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/greenhouse-job-board-api-docs.json",
+      "signal_id": "greenhouse-job-board-api-docs-greenhouse-job-board-api-docs-0",
+      "company_name_normalized": "greenhouse-job-board-api-docs"
+    },
+    {
+      "index": 0,
+      "source": "Lever Postings API docs",
+      "source_url": "https://github.com/lever/postings-api",
+      "source_type": "market context",
+      "confidence": 0.35,
+      "company_name_raw": "Lever Postings API docs",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "Lever Postings API docs",
+      "text": "\n\n\n\n\n\n<!DOCTYPE html>\n<html\n  lang=\"en\"\n  \n  data-color-mode=\"auto\" data-light-theme=\"light\" data-dark-theme=\"dark\"\n  data-a11y-animated-images=\"system\" data-a11y-link-underlines=\"true\"\n  \n  >\n\n\n\n\n  <head>\n    <meta charset=\"utf-8\">\n  <link rel=\"dns-prefetch\" href=\"https://github.githubassets.com\">\n  <link rel=\"dns-prefetch\" href=\"https://avatars.githubusercontent.com\">\n  <link rel=\"dns-prefetch\" href=\"https://github-cloud.s3.amazonaws.com\">\n  <link rel=\"dns-prefetch\" href=\"https://user-images.githubusercontent.com/\">\n  <link rel=\"preconnect\" href=\"https://github.githubassets.com\" crossorigin>\n  <link rel=\"preconnect\" href=\"https://avatars.githubusercontent.com\">\n\n  \n\n\n  <link crossorigin=\"anonymous\" media=\"all\" rel=\"stylesheet\" href=\"https://github.githubassets.com/assets/light-4fded0090af0ad58.css\" /><link crossorigin=\"anonymous\" media=\"all\" rel=\"stylesheet\" href=\"https://github.githubassets.com/assets/light_high_contrast-cf8e26bc17e62ebc.css\" /><link crossorigin=\"anonymous\" media=\"a",
+      "tags": [
+        "grid",
+        "manufacturing"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/lever-postings-api-docs.json",
+      "signal_id": "lever-postings-api-docs-lever-postings-api-docs-0",
+      "company_name_normalized": "lever-postings-api-docs"
+    },
+    {
+      "index": 0,
+      "source": "GitHub REST API docs",
+      "source_url": "https://docs.github.com/en/rest",
+      "source_type": "market context",
+      "confidence": 0.35,
+      "company_name_raw": "GitHub REST API docs",
+      "date": "2026-06-04T09:26:53.175Z",
+      "agency_or_platform": "GitHub REST API docs",
+      "text": "<!DOCTYPE html><html data-color-mode=\"auto\" data-light-theme=\"light\" data-dark-theme=\"dark\" lang=\"en\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" data-next-head=\"\"/><link rel=\"icon\" type=\"image/png\" href=\"/assets/cb-345/images/site/favicon.png\" data-next-head=\"\"/><link href=\"/manifest.json\" rel=\"manifest\" data-next-head=\"\"/><meta name=\"google-site-verification\" content=\"c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY\" data-next-head=\"\"/><title data-next-head=\"\">GitHub REST API documentation - GitHub Docs</title><meta name=\"description\" content=\"Create integrations, retrieve data, and automate your workflows with the GitHub REST API.\" data-next-head=\"\"/><link rel=\"alternate\" hrefLang=\"es\" href=\"https://docs.github.com/es/rest\" data-next-head=\"\"/><link rel=\"alternate\" hrefLang=\"ja\" href=\"https://docs.github.com/ja/rest\" data-next-head=\"\"/><link rel=\"alternate\" hrefLang=\"pt\" href=\"https://docs.github.com/pt/rest\" data-next",
+      "tags": [
+        "grid",
+        "materials"
+      ],
+      "raw_snapshot_path": "data/raw/2026-06-04T09-26-53-175Z/github-rest-api-docs.json",
+      "signal_id": "github-rest-api-docs-github-rest-api-docs-0",
+      "company_name_normalized": "github-rest-api-docs"
+    }
+  ],
+  "rejected": [
+    {
+      "name": "NAC INTERNATIONAL INC.",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market signal, but likely incumbent/OEM until startup evidence appears.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "NAC INTERNATIONAL INC.",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market signal, but likely incumbent/OEM until startup evidence appears.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "UNIVERSITY OF SOUTH CAROLINA",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "NORTHEASTERN UNIVERSITY",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "THE JOHNS HOPKINS UNIVERSITY",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "MICHIGAN STATE UNIVERSITY",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "UNIVERSITY OF WISCONSIN SYSTEM",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "UNIVERSITY OF WISCONSIN SYSTEM",
+      "source": "USAspending",
+      "source_url": "https://www.usaspending.gov/",
+      "reason": "Useful market context, but likely university/lab rather than venture-backed startup.",
+      "what_would_change": "Promote only if a startup spinout, commercial product, or venture-scale operating company is identified.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "Generic AI factory dashboard",
+      "source": "Radar judgment rule",
+      "source_url": "https://atas.vc/",
+      "reason": "Thin dashboards without workflow control are not enough for the ATAS manufacturing thesis.",
+      "what_would_change": "Show control of production throughput, yield, downtime, or procurement decisions.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    },
+    {
+      "name": "Carbon-credit-only ag finance",
+      "source": "Radar judgment rule",
+      "source_url": "https://atas.vc/",
+      "reason": "Weak operational wedge for agricultural infrastructure; too narrative-heavy without field control.",
+      "what_would_change": "Tie directly to farm operations, water, labor automation, or connected infrastructure ROI.",
+      "last_seen_at": "2026-06-04T09:26:53.175Z"
+    }
+  ],
+  "source_health": [
+    {
+      "source": "Web enrichment: Machina Labs",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://machinalabs.ai/"
+    },
+    {
+      "source": "Web enrichment: Atomic Industries",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://www.atomic.industries/"
+    },
+    {
+      "source": "Web enrichment: First Resonance",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://www.firstresonance.io/"
+    },
+    {
+      "source": "Web enrichment: Instrumental",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://instrumental.com/"
+    },
+    {
+      "source": "Web enrichment: Aigen",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://aigen.io/"
+    },
+    {
+      "source": "Web enrichment: farm-ng",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://farm-ng.com/"
+    },
+    {
+      "source": "Web enrichment: Agtonomy",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://www.agtonomy.com/"
+    },
+    {
+      "source": "Web enrichment: Monarch Tractor",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://www.monarchtractor.com/"
+    },
+    {
+      "source": "Web enrichment: Gridware",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://www.gridware.io/"
+    },
+    {
+      "source": "Web enrichment: Irrigreen",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://irrigreen.com/"
+    },
+    {
+      "source": "Web enrichment: Trellis Climate",
+      "status": "partial",
+      "records": 0,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Homepage fetch failed; retaining manually linked public source. TypeError: fetch failed",
+      "url": "https://www.trellisclimate.com/"
+    },
+    {
+      "source": "Web enrichment: Bedrock Robotics",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Company homepage fetched and cached.",
+      "url": "https://www.bedrockrobotics.com/"
+    },
+    {
+      "source": "USAspending",
+      "status": "ok",
+      "records": 25,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Recent DOE assistance-award search succeeded; awards are treated as market context until recipient type is reviewed.",
+      "url": "https://api.usaspending.gov/docs/endpoints/"
+    },
+    {
+      "source": "FCC ECFS",
+      "status": "ok",
+      "records": 25,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Using DEMO_KEY; provide API_DATA_GOV_KEY for higher FCC rate limits.",
+      "url": "https://publicapi.fcc.gov/ecfs/filings"
+    },
+    {
+      "source": "SBIR/STTR",
+      "status": "partial",
+      "records": 0,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Official SBIR API unavailable; use bulk/download fallback later. Error: Error: 429 ",
+      "url": "https://www.sbir.gov/data-resources"
+    },
+    {
+      "source": "ARPA-E projects",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Fetched public page for market context / candidate review.",
+      "url": "https://arpa-e.energy.gov/technologies/projects"
+    },
+    {
+      "source": "MSHA MDRS",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Fetched public page for market context / candidate review.",
+      "url": "https://catalog.data.gov/dataset/msha-mine-data-retrieval-system-mdrs"
+    },
+    {
+      "source": "Black Flag 100",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Fetched public page for market context / candidate review.",
+      "url": "https://www.blackflag.vc/100-2"
+    },
+    {
+      "source": "YC Hard Tech",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Fetched public page for market context / candidate review.",
+      "url": "https://www.ycombinator.com/companies/industry/hard-tech"
+    },
+    {
+      "source": "Greenhouse Job Board API docs",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Fetched public page for market context / candidate review.",
+      "url": "https://developers.greenhouse.io/job-board.html"
+    },
+    {
+      "source": "Lever Postings API docs",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Fetched public page for market context / candidate review.",
+      "url": "https://github.com/lever/postings-api"
+    },
+    {
+      "source": "GitHub REST API docs",
+      "status": "ok",
+      "records": 1,
+      "last_refresh": "2026-06-04T09:26:53.175Z",
+      "note": "Fetched public page for market context / candidate review.",
+      "url": "https://docs.github.com/en/rest"
+    }
+  ]
+}
