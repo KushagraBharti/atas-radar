@@ -391,8 +391,8 @@ export default function RadarApp({ dataset }: { dataset: RadarDataset }) {
 
             {view === "rejected" ? (
               <div className="divide-y divide-stone-800">
-                {dataset.rejected.map((candidate) => (
-                  <div key={`${candidate.source}-${candidate.name}`} className="p-5">
+                {dataset.rejected.map((candidate, index) => (
+                  <div key={`${candidate.source}-${candidate.name}-${index}`} className="p-5">
                     <div className="flex flex-wrap items-center justify-between gap-3">
                       <h3 className="font-semibold text-stone-100">{candidate.name}</h3>
                       <a href={candidate.source_url} target="_blank" rel="noreferrer" className="text-xs text-red-200 hover:text-red-100">
@@ -408,8 +408,8 @@ export default function RadarApp({ dataset }: { dataset: RadarDataset }) {
 
             {view === "health" ? (
               <div className="divide-y divide-stone-800">
-                {dataset.source_health.map((source) => (
-                  <div key={source.source} className="grid gap-4 p-5 md:grid-cols-[180px_100px_1fr_170px]">
+                {dataset.source_health.map((source, index) => (
+                  <div key={`${source.source}-${source.url}-${index}`} className="grid gap-4 p-5 md:grid-cols-[180px_100px_1fr_170px]">
                     <div className="font-medium text-stone-100">{source.source}</div>
                     <div>
                       <span className={`border px-2 py-1 text-xs uppercase ${healthTone(source.status)}`}>{source.status}</span>
